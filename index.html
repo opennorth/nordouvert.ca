@@ -1,0 +1,270 @@
+---
+redirect_from:
+- /a-propos/
+- /contact/
+- /equipe/
+- /projets/
+---
+<!doctype html>
+<!--[if IE 9]><html class="lt-ie10" lang="en" > <![endif]-->
+<html class="no-js" lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<title>Nord Ouvert</title>
+<meta name="description" content="Nord Ouvert crée des sites web pour promouvoir la transparence gouvernementale et la participation citoyenne.">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="shortcut icon" href="theme/img/favicon/favicon.ico">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.1/css/foundation.min.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Fira+Sans:300,500,300italic,500italic">
+<link rel="stylesheet" href="theme/css/styles.css">
+<script src="theme/js/vendor/modernizr.js"></script>
+</head>
+<body id="fr">
+<section class="b-main-menu" role="navigation">
+  <div class="e-main-menu-wrapper">
+    <span class="e-main-menu-trigger js-menu-trigger"><i class="fa fa-2x fa-bars"></i></span>
+    <h1 class="b-main-logo"><a href="#"><img src="theme/img/open-north-logo-header.png" alt="Open North"></a></h1>
+    <div class="b-main-menu-container">
+      <div class="e-language-switcher">
+        <a href="http://www.opennorth.ca/">EN</a>
+      </div>
+      <nav class="b-main-menu-list">
+        <a class="e-menu-item" href="#produits">Produits</a><a class="e-menu-item" href="#services">Services</a><a class="e-menu-item" href="#a-propos">À Propos</a>
+      </nav>
+    </div>
+    </div>
+</section>
+
+{% if site.categories.news %}
+<section class="b-news">
+  <div class="row">
+    <div class="large-12 columns">
+      <div class="js-news-wrapper">
+      {% for post in site.categories.news limit: 3 %}
+      <h5 class="e-news-item js-news"><a href="{{ post.url }}">{{ post.title }}</a></h5>
+      {% endfor %}
+      </div>
+    </div>
+  </div>
+</section>
+{% endif %}
+
+<section class="b-content-section b-landing">
+  <div class="b-backgrounds">
+    <div class="e-bg m-img1 m-visible"></div>
+  </div>
+
+  <div class="row">
+    <div class="large-12 columns">
+      <h1 style="letter-spacing: -5px;">
+        <span>Nous créons des sites web pour promouvoir</span><br>
+        <span>la transparence gouvernementale</span><br>
+        <span>et la participation citoyenne</span>
+      </h1>
+    </div>
+  </div>
+</section>
+
+<section id="produits" class="b-content-section">
+  <div class="row">
+    <div class="column large-12">
+      <h2 class="e-section-title">Nos produits</h2>
+    </div>
+  </div>
+  <div class="row">
+    <div class="b-slider column large-12">
+      <ul>
+        <li class="b-slider-item">
+          <div class="large-6 small-12 column">
+            <img src="theme/img/screenshots/citizenbudget.png" alt="">
+          </div>
+          <div class="large-6 column">
+            <h2>Citizen Budget</h2>
+            <h3>Get citizens involved in your budget process.</h3>
+            <p>Citizens submit balanced budgets to their city and define local priorities using this interactive budget simulator.</p>
+            <p><a class="button">Learn More</a></p>
+          </div>
+        </li>
+
+        <li class="b-slider-item">
+          <div class="large-6 small-12 column">
+            <img src="theme/img/screenshots/represent.png" alt="">
+          </div>
+          <div class="large-6 column">
+            <h2>Open 511</h2>
+            <h3>Get citizens involved in your budget process.</h3>
+            <p>Citizens submit balanced budgets to their city and define local priorities using this interactive budget simulator.</p>
+            <p><a class="button">Learn More</a></p>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<section id="services" class="b-content-section b-services">
+  <div class="row">
+    <div class="column large-4 medium-4 b-service-item">
+      <div class="b-service-image b-circle">
+        <img src="theme/img/services-standards.jpg" alt="">
+      </div>
+      <h2>Recherche et développement de standards de données</h2>
+      <p>Nous concevons des modèles de données et des formats de données utilisés par des gouvernements, des organismes sans but lucratif et des entreprises pour rendre les données civiques utiles et interopérables, incluant <a href="http://www.popoloproject.com/">Popolo</a> pour les données législatives et <a href="http://open511.org/">Open511</a> pour les événements de la route. Nous codirigeons le flux de données du <a href="http://www.opengovpartnership.org/">Open Government Partnership</a> de <a href="http://www.opengovpartnership.org/groups/opendata/">Open Data Working Group</a>. Nous collaborons à d’autres standards, incluant <a href="http://standard.open-contracting.org/">Open Contracting</a> et <a href="http://www.w3.org/blog/news/archives/3591">W3C linked data vocabularies</a>.</p>
+    </div>
+
+    <div class="column large-4 medium-4 b-service-item">
+      <div class="b-service-image b-circle">
+        <img src="theme/img/services-data.jpg" alt="">
+      </div>
+      <h2>Portail gouvernemental de données ouvertes</h2>
+      <p>L’accès aux données ouvertes est un enjeu clé pour la transparence et l’engagement citoyen. Nord Ouvert s’est engagé à aider les gouvernements à développer des portails de données ouvertes puissants et accessibles. Du point de vue technologique, Nord Ouvert a développé une expertise lors de la mise en oeuvre et de la personnalisation de <a href="http://ckan.org">CKAN</a>, le leader open-source pour les portails de données ouvertes, afin d’apporter des solutions de haute qualité qui répondent aux contraintes budgétaires de la majorité des municipalité. Du point de vue des processus, Nord Ouvert aide les gouvernements à concevoir des processus de publication et des meilleures pratiques et offre des formations pour exploiter les initiatives de données ouvertes au maximum.</p>
+    </div>
+
+    <div class="column large-4 medium-4 b-service-item">
+      <div class="b-service-image b-circle">
+        <img src="theme/img/services-monitoring.jpg" alt="">
+      </div>
+      <h2>Outils de surveillance des législations</h2>
+      <p>Nos outils en ligne permettent aux citoyens de facilement exercer leur influence et de participer activer aux processus décisionnels. Au Canada, nous faisons équipe avec <a href="http://www.springtidecollective.ca/">Springtide Collective</a> pour créer <a href="http://www.openhousens.ca/">OpenHouseNS</a> et nous soutenons <a href="http://openparliament.ca/">OpenParliament</a>. À l’international, <a href="http://represent.poplus.org/">Represent Boundaries</a>, notre composante <a href="http://poplus.org/">Poplus</a>, est utilisée par certains des sites web sur la démocratie les plus populaires, incluant <a href="https://www.govtrack.us/">GovTrack.us</a>.</p>
+    </div>
+  </div>
+</section>
+
+<section class="b-content-section m-dark-panel b-subscribe b-call-to-action">
+  <form action="http://opennorth.us2.list-manage.com/subscribe/post?u=a602fac79ef3dc584bf1a2743&amp;id=49afb9ad21" method="post" target="_blank" class="form-inline">
+    <div class="row">
+      <div class="column large-12">
+        <h3 class="e-call-to-action-title">Inscription à notre bulletin d’information</h3>
+      </div>
+      <div class="large-8 columns large-centered">
+        <div class="row collapse">
+          <div class="small-7 columns large-9">
+            <input type="email" placeholder="Courriel" name="EMAIL" required>
+          </div>
+          <div class="small-5 columns large-3">
+            <input type="submit" value="Inscrivez-vous" name="subscribe" class="button postfix">
+          </div>
+        </div>
+      </div>
+    </div>
+  </form>
+</section>
+
+<section id="a-propos" class="b-content-section b-mission">
+  <div class="row">
+    <div class="large-12 column">
+      <h2 class="e-section-title">Mission</h2>
+      <p class="b-text-block">Nord Ouvert est un organisme canadien à but non lucratif <a href="https://www.ic.gc.ca/app/scr/cc/CorporationsCanada/fdrlCrpDtls.html?corpId=7863063">nonprofit</a> qui crée des outils en ligne afin d’éduquer et de permettre aux citoyens de participer activement à la démocratie canadienne.</p>
+    </div>
+  </div>
+</section>
+<section class="b-content-section b-team">
+  <div class="row">
+    <div class="large-12 column">
+      <h2 class="e-section-title">À propos</h2>
+    </div>
+
+    {% for person in site.data.staff %}
+    <div class="large-4 column medium-4">
+      <div class="b-card m-team">
+        <div class="e-card-picture" style="background-image: url('theme/img/people/{{ person.name | slugify }}.jpg')"></div>
+        <div class="e-card-content">
+          <h3{% if person.h3style %} style="{{ person.h3style }}"{% endif %}>{{ person.name }}</h3>
+          <h4{% if person.h4style %} style="{{ person.h4style }}"{% endif %}>{{ person.role }}</h4>
+          {% if person.linkedin %}<p class="e-controls"><a class="b-social-media" href="{{ person.linkedin }}"><i class="fa fa-lg fa-linkedin"></i></a></p>{% endif %}
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+
+  <div class="row">
+    <div class="large-12 column">
+      <h2 class="e-section-title e-separator" style="letter-spacing: -0.9px;">Conseil d’administration</h2>
+    </div>
+
+    {% for person in site.data.board %}
+    <div class="large-4 column medium-4">
+      <div class="b-card m-team">
+        <div class="e-card-picture" style="background-image: url('theme/img/people/{{ person.name | slugify }}.jpg')"></div>
+        <div class="e-card-content">
+          <h3{% if person.h3style %} style="{{ person.h3style }}"{% endif %}>{{ person.name }}</h3>
+          <h4 style="letter-spacing: -0.65px;">{{ person.summary }}</h4>
+          {% if person.linkedin %}<p class="e-controls"><a class="b-social-media" href="{{ person.linkedin }}"><i class="fa fa-lg fa-linkedin"></i></a></p>{% endif %}
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+
+    <div class="large-4 columns">&nbsp;</div>
+  </div>
+</section>
+
+<section class="b-content-section">
+  <div class="row">
+    <div class="large-12 column">
+      <h3 class="e-section-title">Nos clients</h3>
+    </div>
+  <div class="row b-clients">
+    <div class="large-3 column small-12"><img src="theme/img/clients/edelman.png" alt="Edelman"></div>
+    <div class="large-3 column small-12"><img src="theme/img/clients/web-foundation.png" alt="World Wide Web Foundation"></div>
+    <div class="large-3 column small-12"><img src="theme/img/clients/montreal.png" alt="Ville de Montréal"></div>
+    <div class="large-3 column small-12"><img src="theme/img/clients/edmonton.png" alt="Ville d'Edmonton"></div>
+  </div>
+  <div class="row b-clients">
+    <div class="large-4 column small-12"><img src="theme/img/clients/markham.png" alt="Ville de Markham"></div>
+    <div class="large-4 column small-12"><img src="theme/img/clients/gazette.png" alt="La Gazette de Montréal"></div>
+    <div class="large-4 column small-12"><img src="theme/img/clients/surrey.png" alt="Ville de Surrey"></div>
+  </div>
+</section>
+
+<section class="b-content-section">
+  <div class="row">
+    <div class="large-12 column">
+      <h3 class="e-section-title">Nos partenaires</h3>
+    </div>
+  <div class="row b-funders">
+    <div class="large-3 column small-12"><img src="theme/img/funders/canada.png" alt="Gouvernement du Canada"></div>
+    <div class="large-3 column small-12"><img src="theme/img/funders/quebec.png" alt="Gouvernement du Québec"></div>
+    <div class="large-3 column small-12"><img src="theme/img/funders/cira.png" alt="Autorité canadienne pour les enregistrements Internet"></div>
+    <div class="large-3 column small-12"><img src="theme/img/funders/idrc.png" alt="Centre de recherches pour le développement international"></div>
+  </div>
+  <div class="row b-funders">
+    <div class="large-4 column small-12"><img src="theme/img/funders/mcconnell.png" alt="La fondation de la famille J.W. McConnell"></div>
+    <div class="large-4 column small-12"><img src="theme/img/funders/cdec.png" alt="CDEC Côte-des-Neiges—Notre-Dame-de-Grâce"></div>
+    <div class="large-4 column small-12"><img src="theme/img/funders/sdevm.png" alt="Société de développement économique Ville-Marie"></div>
+  </div>
+</section>
+
+<footer class="b-footer b-content-section">
+  <div class="row">
+    <div class="large-12 column e-footer-top-section">
+      <img src="theme/img/open-north-logo-footer.png" alt="">
+    </div>
+    <div class="large-12 column e-footer-bottom-section">
+      <a class="b-social-media" href="mailto:info@nordouvert.ca"><i class="fa fa-lg fa-envelope"></i></a>
+      <a class="b-social-media" href="https://www.facebook.com/OpenNorth.NordOuvert"><i class="fa fa-lg fa-facebook"></i></a>
+      <a class="b-social-media" href="https://twitter.com/nordouvert"><i class="fa fa-lg fa-twitter"></i></a>
+      <a class="b-social-media" href="http://www.linkedin.com/groups/Open-Government-Canada-4206358?trk=myg_ugrp_ovr"><i class="fa fa-lg fa-linkedin"></i></a>
+      <a class="b-social-media" href="https://github.com/opennorth/"><i class="fa fa-lg fa-github"></i></a>
+    </div>
+  </div>
+</footer>
+
+<script src="https://code.jquery.com/jquery-2.1.3.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fastclick/1.0.6/fastclick.min.js"></script>
+<script src="theme/js/vendor/unslider.min.js"></script>
+<script src="theme/js/scripts.js"></script>
+
+<script>
+(function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+e.src='https://www.google-analytics.com/analytics.js';
+r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
+ga('create','UA-21866813-8','auto');ga('send','pageview');
+</script>
+</body>
+</html>
