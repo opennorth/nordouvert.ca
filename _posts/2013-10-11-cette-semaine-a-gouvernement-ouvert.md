@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Cette semaine: Budget Citoyen est lancé à Dieppe, au Nouveau-Brunswick"
-type: article
 author: Ellie Marshall
 ---
 - L’importance de la participation civique au quotidien, une valeur dont nous faisons la promotion à travers [notre mission](http://nordouvert.ca/a-propos/), est le sujet [d’un article de Laura Beeston](http://www.montrealgazette.com/business/Civic+engagement+starts+home/8911179/story.html) dans la Montreal Gazette dans le cadre l’élection municipale qui aura lieu en novembre à Montréal. Beeston défend l’idée que, “même si la réputation et la renaissance de notre ville est en jeu et qu’il ne manque pas de sujets de plainte, la volonté de créer du changement qui a caractérisé la campagne électorale provinciale et la grève étudiante de l’année dernière ne s’est toujours pas manifestée avec autant de passion dans la campagne électorale menant à l’élection d’un nouveau maire le 3 novembre prochain”. Dans ce billet, Beeston interviewe plusieurs membres de la communauté au sujet de l’engagement civique et conclut que le progrès dans la gouvernance de Montréal aura lieu à travers la participation et l’intérêt continus des citoyens, et non seulement lors du jour du vote.

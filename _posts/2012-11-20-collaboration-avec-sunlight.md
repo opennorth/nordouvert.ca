@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Une première collaboration avec la Sunlight Foundation donne "Open 13"
-type: article
 author: Ellie Marshall
 date: 2012-11-20 10:00:00
 ---

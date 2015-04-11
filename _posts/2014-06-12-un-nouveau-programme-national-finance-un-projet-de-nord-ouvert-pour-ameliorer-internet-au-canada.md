@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Un nouveau programme national finance un projet de Nord Ouvert pour améliorer internet au Canada"
-type: article
 author: Jean-Noé Landry
 date: 2014-06-12 00:38:54
 ---

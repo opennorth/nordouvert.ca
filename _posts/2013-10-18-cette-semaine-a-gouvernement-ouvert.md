@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Cette semaine: l’initiative gouvernementale de Github et le nouveau livre sur la transparence de Code for America"
-type: article
 author: Ellie Marshall
 ---
 - GitHub a lancé [GitHub and Government](http://government.github.com), un nouveau site web dédié “à la présentation des efforts impressionnants de la part des fonctionnaires et des hackers à mission civique partout dans le monde”. Ce nouvel espace, où les gouvernements peuvent entrer en dialogue et partager leurs meilleures pratiques, cite en exemple la [Boîte à outils de l’expérience Web](http://www.tbs-sct.gc.ca/ws-nw/wa-aw/wet-boew/index-fra.asp) du Conseil du Trésor du Canada. GitHub and Government présente aussi [quelques idées de projets](http://government.github.com/projects/) pour les gouvernements qui cherchent à permettre aux citoyens d’utiliser davantage les données. 

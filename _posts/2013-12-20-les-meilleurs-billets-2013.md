@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Les meilleurs billets du blog de Nord Ouvert en 2013"
-type: article
 author: Ellie Marshall
 ---
 Ce fut une année passionnante pour le secteur de la technologie civique. Nous avons vu beaucoup de croissance au sein de Nord Ouvert et de nos organisations homologues. Voici nos billets préférés de la dernière année, représentant les annonces de Nord Ouvert, les analyses du milieu et autres mises à jour. Nous avons raté un événement important? Faites-nous signe à info@nordouvert.ca. 

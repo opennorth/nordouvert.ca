@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Cette semaine: la semaine de la démocratie et de nouvelles recommandations de la Sunlight Foundation"
-type: article
 author: Ellie Marshall
 ---
 - Cette semaine [se déroule la Semaine canadienne de la démocratie](http://www.democracy-democratie.ca/content.asp?section=dmw&dir=about&document=index&lang=f), pendant laquelle aura lieu une série de [discussions](http://www.democracy-democratie.ca/content.asp?section=events&document=index&lang=f) portant sur une variété de sujets, de l’engagement civique à l’aide démocratique internationale. Les événements s’inspirent de et coïncident avec la [Journée internationale de la démocratie] des Nations Unies (http://www.un.org/en/events/democracyday/background.shtml) le 15 septembre. Visitez la [page web sur les événements de cette semaine de la démocratie](http://www.democracy-democratie.ca/content.asp?section=events&document=index&lang=f) pour découvrir quels événements se dérouleront près de chez vous.

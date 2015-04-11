@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Cette semaine dans le mouvement pour l’ouverture gouvernementale..."
-type: article
 author: Ellie Marshall
 date: 2013-08-02 10:00:00
 ---

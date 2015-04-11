@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Cette semaine: Journée données ouvertes 2014 & nouvelles infos sur Open Government Partnership"
-type: article
 author: Ellie Marshall
 ---
 - La [Journée données ouvertes 2014](http://opendataday.org/) (un "rassemblement de citoyens dans les villes à travers le monde dans le but de créer des applications, libérer les données, créer des visualisations et publier des analyses à partir des données publiques ouvertes pour montrer le soutien et encourager l'adoption de politiques de données ouvertes”) a lieu le 22 février. Pour organiser un événement dans votre région, ou voir les autres événements organisés, [consultez la page wiki] (http://wiki.opendataday.org/Main_Page). Pour plus de détails, consultez [le billet](http://eaves.ca/2013/12/16/open-data-day-2014-is-coming-feb-22-time-to-join-the-fun/) de David Eaves sur la coordination que nécessite cette journée.

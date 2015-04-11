@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "MaMairie.ca: nouveaux développements"
-type: article
 author: Ellie Marshall
 ---
 Nos campagnes de financement populaire pour [MyCityHall.ca](http://www.indiegogo.com/projects/mycityhall-ca-toronto/x/1598726) et [MaMairie.ca](http://www.indiegogo.com/projects/mamairie-ca-montreal/x/1598726) ont pris fin le 1er mai, sous notre objectif de 10 000 $ chacun. Par conséquent, nous n’avons pu embaucher de personnel supplémentaire pour nous aider à accomplir le projet. Nous avons plutôt dû trouver le temps dans notre propre horaire. En tant qu’organisme à but non lucratif [ayant plusieurs projets actifs](http://nordouvert.ca/projets), cela a été un défi. Cependant, alors que nous nous rapprochons d’une version bêta, nous voulons que vous sachiez à quoi vous attendre.

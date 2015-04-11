@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Les données ouvertes, les standards et Socrata"
-type: article
 author: Stéphane Guidoin, James McKinney 
 date: 2012-11-22 14:12:38
 ---

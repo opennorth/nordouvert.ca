@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Budget Citoyen: les avantages des consultations budgétaires en ligne"
-type: article
 author: Ellie Marshall
 ---
 Les fonctionnaires reçoivent souvent des suggestions, demandes, commentaires et critiques du public à propos de leurs décisions budgétaires. Un des défis auquel toutes les municipalités font face est de balancer leur budget tout en répondant aux pressions et aux revendications de leurs résidents. Afin de répondre à ces demandes, les gouvernements tiennent couramment des sessions de consultation publique pour obtenir du feedback sur les budgets, la législation et les projets à venir. Toutefois, plusieurs contraintes peuvent limiter la participation et la diversité de ces sessions. Jetons un coup d’œil aux avantages des consultations publiques en ligne.

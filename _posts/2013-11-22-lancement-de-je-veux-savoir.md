@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Lancement de JeVeuxSavoir.org et d’un infothon le 30 novembre"
-type: article
 author: Ellie Marshall
 date: 2013-11-22
 ---

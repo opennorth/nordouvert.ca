@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Utilisez Représente dans vos campagnes en ligne grâce à deux nouveaux modules Drupal"
-type: article
 author: Ellie Marshall
 ---
 Alors que la base de données des élus [Représente](https://represent.opennorth.ca/) continue de se [développer](https://represent.opennorth.ca/data/), nous souhaitons que les organismes issus de la société civile et les organismes sans but lucratif bénéficient de cette ressource. Grâce à Représente, les groupes activistes peuvent avoir accès à de l’information fiable sur les élus canadiens en se basant sur le code postal ou l’adresse de leurs partisans. Contrairement aux autres services similaires, Représente est complètement gratuit et ouvert.

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Cette semaine à Gouvernement Ouvert"
-type: article
 author: Ellie Marshall
 date: 2013-03-08 10:00:00
 ---

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Cette semaine dans le mouvement pour l’ouverture gouvernementale..."
-type: article
 author: Ellie Marshall
 ---
 - En mai, [nous avons annoncé le lancement de VéloPlan](http://blogue.nordouvert.ca/2013/05/10/cette-semaine-a-gouvernement-ouvert/), un planificateur de trajets en vélo créé par notre directeur en solutions de transport, [Stéphane Guidoin](http://nordouvert.ca/equipe/), qui réutilise [Cibi.me](http://cibi.me) et les calculs d’[OpenTripPlanner](https://github.com/openplans/OpenTripPlanner/wiki). Pour coïncider avec le lancement du [programme de vélopartage dans la région de la baie de San Francisco](http://bayareabikeshare.com/), nous avons déployé une [version de VéloPlan adaptée à San Francisco](http://sf.veloplan.net/). Utilisez VéloPlan pour vous rendre à destination de la façon la plus sécuritaire, la plus rapide ou la plus facile (à [Montréal](http://veloplan.net/) aussi!).

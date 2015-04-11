@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Les données démocratiques de la Ville de Montréal : un exemple de rétroaction à suivre"
-type: article
 author: Jean-Noé Landry
 date: 2014-11-13 11:02:25
 ---

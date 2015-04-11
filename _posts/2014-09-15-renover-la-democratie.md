@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Rénover la démocratie, une idée à la fois"
-type: article
 author: "Stéphane Guidoin"
 date: 2014-09-15 15:26:49
 ---

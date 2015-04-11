@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Nord Ouvert élargit la portée de ses activités grâce à l’appui généreux de la fondation de la famille J.W. McConnell"
-type: article
 author: Ellie Marshall
 ---
 Il nous fait plaisir de vous annoncer que la fondation de la famille J.W. McConnell a versé un financement à Nord Ouvert pour sa mission et son développement en tant qu’entreprise sociale.

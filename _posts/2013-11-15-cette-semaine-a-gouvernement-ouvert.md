@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Cette semaine: Cornwall lance Budget Citoyen"
-type: article
 author: Ellie Marshall
 date: 2013-11-15
 ---

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Comment les organismes à but non lucratif peuvent-ils mener une consultation budgétaire en ligne?"
-type: article
 author: Ellie Marshall
 ---
 Tout comme les gouvernements municipaux, les commissions scolaires, les syndicats et les associations de résidents doivent s’assurer que les décisions prises reflètent les préférences et les besoins de leurs membres. Bien que les consultations en personne et les rencontres annuelles sont des outils importants et efficaces pour obtenir un consensus, il y a plusieurs facteurs qui nuisent au taux de participation à ces événements, comme les limites de temps, de voyagement et de connaissances. Grâce à une consultation en ligne, votre organisation pourra consulter rapidement et facilement ses membres afin de vous guider dans vos décisions budgétaires.

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Budget Citoyen: Revue de l’année 2013"
-type: article
 author: Ellie Marshall
 date: 2013-12-30 22:00
 ---

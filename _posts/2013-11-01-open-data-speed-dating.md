@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Données ouvertes et speed dating!"
-type: article
 author: Stéphane Guidoin
 date: 2013-11-01 10:54:01
 ---

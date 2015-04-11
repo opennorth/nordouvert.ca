@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Leçons à tirer de Represent: il faut ouvrir les données de codes postaux maintenant!"
-type: article
 author: James McKinney et Ellie Marshall
 date: 2013-03-08 
 ---

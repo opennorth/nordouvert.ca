@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Represent: Un moyen facile de contacter vos représentants"
-type: article
 author: James McKinney
 date: 2014-04-23 15:41:59
 ---

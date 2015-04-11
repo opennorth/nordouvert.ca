@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "OFFRE D'EMPLOI: Directeur, Initiatives Stratégiques (temps plein, télétravail)"
-type: article
 author: James McKinney
 date: 2014-04-30 08:22:38
 ---
