@@ -19,13 +19,19 @@
 <section class="b-main-menu" role="navigation">
   <div class="e-main-menu-wrapper">
     <a href="#" class="e-main-menu-trigger js-menu-trigger"><i class="fa fa-2x fa-bars"></i></a>
-    <h1 class="b-main-logo"><span><img src="{{ site.baseurl }}/theme/img/open-north-logo-header.png" alt="Open North" width="150"></span></h1>
+    <h1 class="b-main-logo">
+      {% if page.root %}
+      <span><img src="{{ site.baseurl }}/theme/img/open-north-logo-header.png" alt="Nord Ouvert" width="150"></span>
+      {% else %}
+      <a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/theme/img/open-north-logo-header.png" alt="Nord Ouvert" width="150"></a>
+      {% endif %}
+    </h1>
     <div class="b-main-menu-container">
       <div class="e-language-switcher">
         <a href="http://www.opennorth.ca/">English</a>
       </div>
       <nav class="b-main-menu-list">
-        <a class="e-menu-item" href="/#produits"><span>Produits</span></a><a class="e-menu-item" href="/#services"><span>Services</span></a><a class="e-menu-item" href="/#a-propos"><span>À Propos</span></a>
+        <a class="e-menu-item" href="{{ site.baseurl }}/#produits"><span>Produits</span></a><a class="e-menu-item" href="{{ site.baseurl }}/#services"><span>Services</span></a><a class="e-menu-item" href="{{ site.baseurl }}/#a-propos"><span>À Propos</span></a>
       </nav>
     </div>
   </div>
