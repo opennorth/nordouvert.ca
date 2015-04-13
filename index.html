@@ -12,10 +12,13 @@ redirect_from:
 <section class="b-news">
   <div class="row">
     <div class="column">
-      <div class="js-news-wrapper">
-      {% for post in site.posts limit: 3 %}
-      <h5 class="e-news-item js-news"><a href="{{ post.url }}">{{ post.title }}</a></h5>
-      {% endfor %}
+      <div>
+        <h5 class="e-news-item js-news-wrapper">
+          En vedette:
+          {% for post in site.posts limit: 3 %}
+            <a class="js-news" href="{{ post.url }}">{{ post.title }}</a>
+          {% endfor %}
+        </h5>
       </div>
     </div>
   </div>
@@ -54,23 +57,23 @@ redirect_from:
       <ul>
         <li class="b-slider-item">
           <div class="medium-6 columns">
-            <img src="theme/img/screenshots/citizenbudget.png" alt="">
+            <img src="theme/img/screenshots/citizenbudget-{{ site.language }}.png" alt="">
           </div>
           <div class="medium-6 columns">
-            <h2>Citizen Budget</h2>
-            <p>Citizens submit balanced budgets to their city and define local priorities using this interactive budget simulator.</p>
-            <p><a class="button">Learn More</a></p>
+            <h2>Budget Citoyen</h2>
+            <p></p>
+            <p><a class="button" href="http://www.budgetcitoyen.com/">En savoir plus</a></p>
           </div>
         </li>
 
         <li class="b-slider-item">
           <div class="medium-6 columns">
-            <img src="theme/img/screenshots/represent.png" alt="">
+            <img src="theme/img/screenshots/represent-{{ site.language }}.png" alt="">
           </div>
           <div class="medium-6 columns">
-            <h2>Open 511</h2>
-            <p>Citizens submit balanced budgets to their city and define local priorities using this interactive budget simulator.</p>
-            <p><a class="button" href="https://represent.opennorth.ca/">Learn More</a></p>
+            <h2>API Represent</h2>
+            <p>Represent est la plus vaste source pour obtenir les coordonnées des élus et les districts électoraux aux niveaux fédéral, provincial et municipal au Canada. Des douzaines d’organismes caritatifs, d’organismes sans but lucratif et de syndicats l’utilisent pour mettre en contact leurs membres avec les élus - des millions de fois par année.</p>
+            <p><a class="button" href="https://represent.opennorth.ca/">En savoir plus</a></p>
           </div>
         </li>
       </ul>
@@ -89,16 +92,16 @@ redirect_from:
       <div class="b-service-image b-circle">
         <img src="theme/img/services-standards.jpg" alt="">
       </div>
-      <h2>Recherche et développement de standards de données</h2>
-      <p>Nous concevons des modèles de données et des formats de données utilisés par des gouvernements, des organismes sans but lucratif et des entreprises pour rendre les données civiques utiles et interopérables, incluant <a href="http://www.popoloproject.com/">Popolo</a> pour les données législatives et <a href="http://open511.org/">Open511</a> pour les événements de la route. Nous codirigeons le flux de données du <a href="http://www.opengovpartnership.org/">Open Government Partnership</a> de <a href="http://www.opengovpartnership.org/groups/opendata/">Open Data Working Group</a>. Nous collaborons à d’autres standards, incluant <a href="http://standard.open-contracting.org/">Open Contracting</a> et <a href="http://www.w3.org/blog/news/archives/3591">W3C linked data vocabularies</a>.</p>
+      <h2>Développement de standards de données</h2>
+      <p>Nous concevons des modèles de données et des formats de données utilisés par des gouvernements, des organismes sans but lucratif et des entreprises pour rendre les données civiques utiles et interopérables, incluant <a href="http://open511.org/">Open511</a> pour les événements routiers et <a href="http://www.popoloproject.com/">Popolo</a> pour les données législatives. Nous codirigeons l'activité de standardisation de l'<a href="http://www.opengovpartnership.org/groups/opendata/">Open Data Working Group</a> de l'<a href="http://www.opengovpartnership.org/">Open Government Partnership</a>. Nous collaborons à d’autres standards, incluant <a href="http://standard.open-contracting.org/">Open Contracting</a> et les <a href="http://www.w3.org/blog/news/archives/3591">vocabulaires de données liées du W3C</a>.</p>
     </div>
 
     <div class="large-4 columns">
       <div class="b-service-image b-circle">
         <img src="theme/img/services-data.jpg" alt="">
       </div>
-      <h2>Portail gouvernemental de données ouvertes</h2>
-      <p>L’accès aux données ouvertes est un enjeu clé pour la transparence et l’engagement citoyen. Nord Ouvert s’est engagé à aider les gouvernements à développer des portails de données ouvertes puissants et accessibles. Du point de vue technologique, Nord Ouvert a développé une expertise lors de la mise en oeuvre et de la personnalisation de <a href="http://ckan.org">CKAN</a>, le leader open-source pour les portails de données ouvertes, afin d’apporter des solutions de haute qualité qui répondent aux contraintes budgétaires de la majorité des municipalité. Du point de vue des processus, Nord Ouvert aide les gouvernements à concevoir des processus de publication et des meilleures pratiques et offre des formations pour exploiter les initiatives de données ouvertes au maximum.</p>
+      <h2>Portail de données ouvertes gouvernementales</h2>
+      <p>Nous aidons les gouvernements à développer des portails de données ouvertes puissants et accessibles. Nous avons une expertise dans la mise en oeuvre et la personnalisation de <a href="http://ckan.org">CKAN</a>, le leader open-source pour les portails de données, afin d’apporter des solutions de haute qualité qui répondent aux contraintes budgétaires des municipalités. Nous aidons les gouvernements à concevoir des processus de publication et des meilleures pratiques et offrons des formations pour mieux exploiter les données ouvertes.</p>
     </div>
 
     <div class="large-4 columns">
@@ -106,7 +109,7 @@ redirect_from:
         <img src="theme/img/services-monitoring.jpg" alt="">
       </div>
       <h2>Outils de surveillance des législations</h2>
-      <p>Nos outils en ligne permettent aux citoyens de facilement exercer leur influence et de participer activer aux processus décisionnels. Au Canada, nous faisons équipe avec <a href="http://www.springtidecollective.ca/">Springtide Collective</a> pour créer <a href="http://www.openhousens.ca/">OpenHouseNS</a> et nous soutenons <a href="http://openparliament.ca/">OpenParliament</a>. À l’international, <a href="http://represent.poplus.org/">Represent Boundaries</a>, notre composante <a href="http://poplus.org/">Poplus</a>, est utilisée par certains des sites web sur la démocratie les plus populaires, incluant <a href="https://www.govtrack.us/">GovTrack.us</a>.</p>
+      <p>Nos outils en ligne permettent aux citoyens de facilement exercer leur influence et de participer activement aux processus décisionnels. Au Canada, nous faisons équipe avec <a href="http://www.springtidecollective.ca/">Springtide Collective</a> pour créer <a href="http://www.openhousens.ca/">OpenHouseNS</a> et nous soutenons <a href="http://openparliament.ca/">OpenParliament</a>. À l’international, <a href="http://represent.poplus.org/">Represent Boundaries</a>, notre composante <a href="http://poplus.org/">Poplus</a>, est utilisée par certains des sites web sur la démocratie les plus populaires, incluant <a href="https://www.govtrack.us/">GovTrack.us</a>.</p>
     </div>
   </div>
 </section>
