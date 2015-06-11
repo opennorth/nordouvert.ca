@@ -16,7 +16,7 @@ redirect_from:
         <h5 class="e-news-item js-news-wrapper">
           En vedette:
           {% for post in site.posts limit: 3 %}
-            <a class="js-news" href="{{ post.url }}">{{ post.title }}</a>
+            <a class="js-news" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
           {% endfor %}
         </h5>
       </div>
