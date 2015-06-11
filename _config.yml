@@ -4,4 +4,4 @@ sass:
 gems:
   - jekyll-redirect-from
 language: fr
-baseurl: /nordouvert.ca
+baseurl: 
