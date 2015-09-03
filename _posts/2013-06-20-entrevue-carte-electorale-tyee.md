@@ -20,7 +20,7 @@ Pour en apprendre davantage sur cet outil électoral et sur la façon dont il es
 
 
 **Comment avez-vous découvert Represent?**<br>
-**PS**: En général, j’essaie de garder l’œil ouvert pour les nouvelles initiatives canadiennes favorisant les données ouvertes. De plus, quand j’ai écrit à [Vote.ca](http://www.vote.ca) pour leur demander quel système de recherche était utilisé pour les limites électorales, j’ai été référé à [l’API de Represent](https://represent.opennorth.ca/API). J’ai rapidement réécrit notre outil afin qu’il emploie l’API de Represent. 
+**PS**: En général, j’essaie de garder l’œil ouvert pour les nouvelles initiatives canadiennes favorisant les données ouvertes. De plus, quand j’ai écrit à [Vote.ca](http://www.vote.ca) pour leur demander quel système de recherche était utilisé pour les limites électorales, j’ai été référé à [l’API de Represent](https://represent.opennorth.ca/api/). J’ai rapidement réécrit notre outil afin qu’il emploie l’API de Represent. 
 
 **Quel a été votre principal défi lorsque vous avez bâti l’outil?**<br>
 **PS:** Deux choses, je dirais. D’abord, la connexion entre l’application et notre feuille de calcul Google qui fournissait l’information pour chaque circonscription et chaque candidat n’était pas fiable. Un grand volume de trafic sur l’application se traduisait invariablement par des erreurs dans l’API de Google Docs. À la base, de la mise en cache a été faite pour réduire le nombre de demandes formulées lorsque l’application servait un grand volume de trafic. Éventuellement, j’ai retiré tous les « remote calls » de l’application et j’ai créé des tâches différentes pour écrire sur un cache, alors que l’application allait uniquement lire ce cache. 
