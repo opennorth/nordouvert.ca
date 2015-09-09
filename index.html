@@ -94,7 +94,7 @@ redirect_from:
         <img src="theme/img/services-standards.jpg" alt="">
       </div>
       <h2>Développement de standards de données</h2>
-      <p>Nous concevons des modèles de données et des formats de données utilisés par des gouvernements, des organismes sans but lucratif et des entreprises pour rendre les données civiques utiles et interopérables, incluant <a href="http://open511.org/">Open511</a> pour les événements routiers et <a href="http://www.popoloproject.com/">Popolo</a> pour les données législatives. Nous codirigeons l'activité de standardisation de l'<a href="http://www.opengovpartnership.org/groups/opendata/">Open Data Working Group</a> de l'<a href="http://www.opengovpartnership.org/">Open Government Partnership</a>. Nous collaborons à d’autres standards, incluant <a href="http://standard.open-contracting.org/">Open Contracting</a> et les <a href="http://www.w3.org/blog/news/archives/3591">vocabulaires de données liées du W3C</a>.</p>
+      <p>Nous concevons des modèles de données et des formats de données utilisés par des gouvernements, des organismes sans but lucratif et des entreprises pour rendre les données civiques utiles et interopérables, incluant <a href="http://open511.org/">Open511</a> pour les événements routiers. Nous collaborons à d’autres standards, incluant <a href="http://standard.open-contracting.org/">Open Contracting</a>.</p>
     </div>
 
     <div class="large-4 columns">
@@ -102,7 +102,7 @@ redirect_from:
         <img src="theme/img/services-data.jpg" alt="">
       </div>
       <h2>Portail de données ouvertes gouvernementales</h2>
-      <p>Nous aidons les gouvernements à développer des portails de données ouvertes puissants et accessibles. Nous avons une expertise dans la mise en oeuvre et la personnalisation de <a href="http://ckan.org">CKAN</a>, le leader open-source pour les portails de données, afin d’apporter des solutions de haute qualité qui répondent aux contraintes budgétaires des municipalités. Nous aidons les gouvernements à concevoir des processus de publication et des meilleures pratiques et offrons des formations pour mieux exploiter les données ouvertes.</p>
+      <p>Nous aidons les gouvernements à concevoir des processus de publication et des meilleures pratiques. En tant que codirigeant de l'activité de standardisation de l'<a href="http://www.opengovpartnership.org/groups/opendata/">Open Data Working Group</a> de l'<a href="http://www.opengovpartnership.org/">Open Government Partnership</a>, nous rédigeons des pratiques recommandées pour les portails de données ouvertes, afin de promouvoir l'utilisation de standards pour faciliter l'utilisation des données ouvertes.</p>
     </div>
 
     <div class="large-4 columns">
@@ -110,7 +110,7 @@ redirect_from:
         <img src="theme/img/services-monitoring.jpg" alt="">
       </div>
       <h2>Outils de surveillance des législations</h2>
-      <p>Nos outils en ligne permettent aux citoyens de facilement exercer leur influence et de participer activement aux processus décisionnels. Au Canada, nous faisons équipe avec <a href="http://www.springtidecollective.ca/">Springtide Collective</a> pour créer <a href="http://www.openhousens.ca/">OpenHouseNS</a> et nous soutenons <a href="http://openparliament.ca/">OpenParliament</a>. À l’international, <a href="http://represent.poplus.org/">Represent Boundaries</a>, notre composante <a href="http://poplus.org/">Poplus</a>, est utilisée par certains des sites web sur la démocratie les plus populaires, incluant <a href="https://www.govtrack.us/">GovTrack.us</a>.</p>
+      <p>Nos outils en ligne permettent aux citoyens de facilement exercer leur influence et de participer activement aux processus décisionnels. Au Canada, nous faisons équipe avec <a href="http://www.springtidecollective.ca/">Springtide Collective</a> pour créer <a href="http://www.openhousens.ca/">OpenHouseNS</a>. À l’international, <a href="http://represent.poplus.org/">Represent Boundaries</a>, notre composante <a href="http://poplus.org/">Poplus</a>, est utilisée par certains des sites web sur la démocratie les plus populaires, incluant <a href="https://www.govtrack.us/">GovTrack.us</a>.</p>
     </div>
   </div>
 </section>
@@ -203,7 +203,7 @@ redirect_from:
 <section class="b-content-section b-people">
   <div class="row">
     <div class="column">
-      <h2 class="e-section-title">Conseil d’administration</h2>
+      <h2 class="e-section-title">Conseil d’administration &amp; Fondateur</h2>
     </div>
 
     {% for person in site.data.board %}
@@ -216,7 +216,10 @@ redirect_from:
         </div>
         <div class="e-card-content">
           <h3>{{ person.name }}</h3>
+          {% if person.summary %}
           <h4>{{ person.summary }}</h4>
+          {% endif %}
+          <h4>{{ person.role }}</h4>
         </div>
       </div>
     </div>

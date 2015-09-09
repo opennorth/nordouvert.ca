@@ -1,15 +1,23 @@
 - name: Jonathan Brun
-  summary: Cofondateur de Nimonik et de Montréal Ouvert
+  role: Membre du conseil
+  summary: Nimonik
   linkedin: https://www.linkedin.com/in/jonathanbrun
 - name: David Eaves
-  summary: Entrepreneur en politiques publiques et expert en négociation
+  role: Membre du conseil
+  summary: ReCollect
   linkedin: https://www.linkedin.com/in/davideaves
 - name: Emily Harris
-  summary: Consultante en politiques et gestion d’entreprise pour la Ville de Toronto
+  role: Membre du conseil
+  summary: Ville de Toronto
   linkedin: https://www.linkedin.com/pub/emily-harris/35/398/636
 - name: Kent Mewhort
-  summary: Directeur technique de Ethelo Decisions
+  role: Membre du conseil
+  summary: Ethelo Decisions
   linkedin:
 - name: Bernard Rudny
-  summary: Responsable des communications au Pembina Institute
+  role: Membre du conseil
+  summary: Pembina Institute
   linkedin: https://www.linkedin.com/in/bernardrudny
+- name: James McKinney
+  role: 'Fondateur &amp; Conseiller technique principal'
+  linkedin: https://www.linkedin.com/in/mckinneyjames
