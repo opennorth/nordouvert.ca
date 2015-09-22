@@ -16,9 +16,9 @@ Comme vous pourrez le lire dans son prochain billet de blogue, mon collègue [Je
  
 En plus d’avoir la satisfaction d’avoir bâti une organisation ayant sa propre identité et des objectifs bien à elle, les accomplissements qui me rendent le plus fiers sont:
  
-·      Avoir prouvé qu’il est possible de financer un organisme à but non lucratif dans le milieu de la technologie civique au Canada
-·    Avoir créé l’[API Represent](https://represent.opennorth.ca/), un service de soutien aux syndicats, aux organismes à but non lucratif et aux compagnies à travers le Canada
-·      Avoir créé un consensus autour de [Popolo](http://www.popoloproject.com/), une spécification technique adoptée par des dizaines d’organisations dans le milieu de la technologie civique pour modeler et publier des données législatives
+* Avoir prouvé qu’il est possible de financer un organisme à but non lucratif dans le milieu de la technologie civique au Canada
+* Avoir créé l’[API Represent](https://represent.opennorth.ca/), un service de soutien aux syndicats, aux organismes à but non lucratif et aux compagnies à travers le Canada
+* Avoir créé un consensus autour de [Popolo](http://www.popoloproject.com/), une spécification technique adoptée par des dizaines d’organisations dans le milieu de la technologie civique pour modeler et publier des données législatives
  
 En tant que directeur exécutif, je croyais qu’il ne servait à rien de refaire ce que les autres faisaient déjà avec brio; que les individus du milieu de l’ouverture gouvernementale réussiront ou échoueront en tant que mouvement; et qu’ « on peut créer beaucoup de bien autour de nous du moment qu’on ne se préoccupe pas d’à qui revient le mérite » (http://quoteinvestigator.com/2010/12/21/doing-good-selfless/) <sup id="ref-1">[1](#fn-1)</sup>. Ces principes ont facilité l’accomplissement d’un travail de qualité, que cela se traduise par référer de potentiels clients à d’autres organisations, de recruter des partenaires sur des projets ou de contribuer au travail d’autres organismes. En fait, après plus de [300 contributions] (https://github.com/pulls?q=is%3Apr+author%3Ajpmckinney+is%3Aclosed) à des projets d’autres organismes et une quantité incalculable d’échanges fructueux, la générosité dictée par ces principes a généré un respect et une bonne volonté immenses entre moi-même et le milieu de l’ouverture gouvernementale.
 
