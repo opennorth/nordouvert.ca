@@ -1,9 +1,10 @@
 ---
-published: false
+published: true
 layout: post
 title: "Le simulateur Budget Citoyen de Nord Ouvert propulse un projet d'engagement citoyen pionnier"
 author: David Brake
 ---
+
 
 Les citoyens de Saint-Basile-le-Grand sont appelés à voter cette semaine – non pas pour élire des représentants, mais plutôt pour choisir lequel des 11 projets présentés sera mis sur pied par le conseil municipal. Il s’agit d’un exercice radical de démocratie directe. La municipalité est la première au Québec à permettre aux citoyens de suggérer des projets et de voter sur leur réalisation. L’année dernière, la municipalité avait lancé une initiative de budget participatif en mettant de côté 200 000$ afin de financer les priorités des citoyens – une place publique et un passage piétonnier plus sécuritaire. Cette année, Saint-Basile-le-Grand répète l’expérience, mais en ayant recours au logiciel [Budget Citoyen](http://www.budgetcitoyen.com) créé par Nord Ouvert afin de permettre aux résidents de choisir les projets à travers une interface en ligne interactive plutôt que sur papier, ce qui facilitera le vote et la comptabilisation des résultats.
  
