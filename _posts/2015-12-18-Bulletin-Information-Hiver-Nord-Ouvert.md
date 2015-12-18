@@ -1,9 +1,10 @@
 ---
-published: false
+published: true
 layout: post
 title: "Bulletin d'information Hiver 2015"
 author: Nord Ouvert
 ---
+
 
 
 Nous avons eu un automne occupé! Voici une mise à jour rapide des initiatives sur lesquelles nous avons travaillé et des projets qui nous occuperont cet hiver:
@@ -56,4 +57,3 @@ L’organisme d’observation électorale OPORA lancera également une version u
 
 - Suivez-nous sur [Facebook](https://www.facebook.com/OpenNorth.NordOuvert) et sur [Twitter](https://twitter.com/nordouvert)
 - Écrivez-nous à [info@nordouvert.ca](mailto:info@opennorth.ca)
-
