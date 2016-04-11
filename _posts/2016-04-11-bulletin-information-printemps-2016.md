@@ -1,6 +1,7 @@
 ---
-published: false
+published: true
 ---
+
 
 # Bulletin d’information : printemps 2016
  
@@ -76,4 +77,4 @@ Afin de répondre à la demande croissante pour nos services, Nord Ouvert recrut
 ## Restez en contact!
 - Notre site web sera complètement renouvelé très bientôt!
 - Suivez-nous sur [Facebook](https://www.facebook.com/OpenNorth.NordOuvert) et [Twitter](https://twitter.com/opennorth)
-- Écrivez-nous: info@opennorth.ca 
+- Écrivez-nous: info@opennorth.ca
