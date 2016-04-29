@@ -9,108 +9,173 @@ redirect_from:
 - /equipe/
 - /projets/
 ---
-{% if site.posts %}
-<section class="b-news">
-  <div class="row">
-    <div class="column">
-      <div>
-        <h5 class="e-news-item js-news-wrapper">
-          En vedette:
-          {% for post in site.posts limit: 3 %}
-            <a class="js-news" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-          {% endfor %}
-        </h5>
+
+<section class="b-content-section b-landing">
+  <div class="b-backgrounds">
+    <div class="e-bg m-img1 m-visible">
+      <img src="{{ site.baseurl }}/theme/img/map.jpg">
+    </div>
+  </div>
+
+  <div class="row-wrap">
+    <div class="row display-table">
+      <div class="column display-cell small-7 medium-6 large-5 landing-left-column">
+        <h1>
+          For Better,<br>
+          more open<br>
+          democracy
+        </h1>
+      </div>
+      <div class="column display-cell small-5 medium-6 large-7 landing-right-column">
+
       </div>
     </div>
   </div>
 </section>
-{% endif %}
 
-<section class="b-content-section b-landing">
-  <div class="b-backgrounds">
-    <div class="e-bg m-img1 m-visible"></div>
-  </div>
-
+<section class="b-mission" >
   <div class="row">
     <div class="column">
-      <h1>
-        <span class="show-for-small-only">
-          <span>Nous créons des sites web pour promouvoir la transparence gouvernementale et la participation citoyenne</span>
-        </span>
-        <span class="hide-for-small-only">
-          <span>Nous créons des sites web pour promouvoir</span><br>
-          <span>la transparence gouvernementale</span><br>
-          <span>et la participation citoyenne</span>
-        </span>
-      </h1>
+      <p class="text-center">As Canada’s leading open data nonprofit and steward of the International Open Data Charter, Open North is an active member of a global community working in favour of systems change, improving government transparency and accountability, and increasing public participation in democracies across the world.</p>
     </div>
   </div>
 </section>
 
-<section class="b-content-section" id="produits">
+<section class="b-content-section gray" id="produits">
   <div class="row">
     <div class="column">
       <h2 class="e-section-title">Nos produits</h2>
+      <p class="text-center b-text-block">With our proven track record on both the national and international stages, we offer a variety of open data solutions and civic technology tools, scaled for both the local and national levels, for better and more open democracies.</p>
     </div>
   </div>
-  <div class="row">
-    <div class="column b-slider">
-      <ul>
-        <li class="b-slider-item">
-          <div class="medium-6 columns">
-            <img src="theme/img/screenshots/citizenbudget-{{ site.language }}.png" alt="">
-          </div>
-          <div class="medium-6 columns">
-            <h2>Budget Citoyen</h2>
-            <p>Les gouvernements utilisent notre simulateur budgétaire interactif pour mettre sur pied des consultations en ligne qui recueillent des contributions pertinentes et songées de la part des résidents, informent les résidents des coûts et des compromis nécessaires, éduquent les résidents sur le processus budgétaire et démontrent le dévouement de la municipalité envers l'engagement citoyen.</p>
-            <p><a class="button" href="http://www.budgetcitoyen.com/">En savoir plus</a></p>
-          </div>
-        </li>
-
-        <li class="b-slider-item">
-          <div class="medium-6 columns">
-            <img src="theme/img/screenshots/represent-{{ site.language }}.png" alt="">
-          </div>
-          <div class="medium-6 columns">
-            <h2>API Represent</h2>
-            <p>Represent est la plus vaste source pour obtenir les coordonnées des élus et les districts électoraux aux niveaux fédéral, provincial et municipal au Canada. Des douzaines d’organismes caritatifs, d’organismes sans but lucratif et de syndicats l’utilisent pour mettre en contact leurs membres avec les élus - des millions de fois par année.</p>
-            <p><a class="button" href="https://represent.opennorth.ca/">En savoir plus</a></p>
-          </div>
-        </li>
-      </ul>
+  
+  <div class="row full-width three-column" id="products-columns">
+    <div class="column medium-4" id="products-1">
+      <div class="col-header">
+        <img src="theme/img/icons/whatwedo1.png" alt="">
+        <h3 class="column-title">Applied research</h3>
+      </div>
+      <div class="col-content">
+        <ul>
+          <li>Assessments (needs and impacts)</li>
+          <li>Stakeholder engagement</li>
+          <li>Standards</li>
+        </ul>
+      </div>
     </div>
+    <div class="column medium-4" id="products-2">
+      <div class="col-header">
+        <img src="theme/img/icons/whatwedo2.png" alt="">
+        <h3 class="column-title">Strategy and (action)</h3>
+      </div>
+      <div class="col-content middle">
+        <ul>
+          <li>Planning</li>
+          <li>Frameworks</li>
+          <li>Education & training (cultural shift)</li>
+        </ul>
+      </div>
+    </div>
+    <div class="column medium-4" id="products-3">
+      <div class="col-header">
+        <img src="theme/img/icons/whatwedo3.png" alt="">
+        <h3 class="column-title">Tools and websites: <br> government and civic tech</h3>
+      </div>
+      <div class="col-content">
+        <ul>
+          <li>Civic engagement</li>
+          <li>Transparency</li>
+          <li>Accountability</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+    <div class=" b-slider">
+    <ul>
+      <li class="b-slider-item" id="slide-citizen"> 
+        <div class="display-table">
+          <div class="medium-8 columns display-cell slide-left-col">
+            <h2>Citizen Budget</h2>
+            <p>Governments use our interactive budget simulator to run online consultations that collect meaningful, considered input from residents, inform residents on costs and tradeoffs, educate residents on the budget-making process, and demonstrate commitment to citizen engagement.</p>
+            <p><a href="http://claudiomendoncadesign.github.io/citizen-budget-website/index.html">Learn More <i class="fa fa-angle-right" aria-hidden="true"></i></a></p>
+          </div>
+          <div class="medium-4 columns display-cell slide-right-col">
+            <img class="screenshot" src="theme/img/screenshots/citizenbudget2-{{ site.language }}.png" alt="">
+          </div>
+        </div>
+      </li>
+
+      <li class="b-slider-item" id="slide-represent">
+        <div class="display-table">
+          <div class="medium-8 columns display-cell slide-left-col">
+            <h2>Represent API</h2>
+            <p>Represent is the largest source of elected officials’ contact information and electoral districts for federal, provincial and municipal governments in Canada. Dozens of charities, nonprofits and labour unions use it to connect their members with representatives – millions of times per year.</p>
+            <p><a href="https://represent.opennorth.ca/">Learn More <i class="fa fa-angle-right" aria-hidden="true"></i></a></p>
+          </div>
+          <div class="medium-4 columns display-cell slide-right-col">
+            <img class="screenshot" src="theme/img/screenshots/represent-{{ site.language }}.png" alt="">
+          </div>
+        </div>
+      </li>
+
+      <li class="b-slider-item" id="slide-3">
+        <div class="display-table">
+          <div class="medium-8 columns display-cell slide-left-col">
+            <h2>Open Government Partnership</h2>
+            <p>Lorem ipsum dolor</p>
+            <p><a href="https://publicsectordigest.com/products/view/832">Learn More <i class="fa fa-angle-right" aria-hidden="true"></i></a></p>
+          </div>
+          <div class="medium-4 columns display-cell slide-right-col">
+            <img class="screenshot" src="theme/img/screenshots/publicsectordigest.png" alt="">
+          </div>
+        </div>
+      </li>
+    </ul>
   </div>
 </section>
 
-<section class="b-content-section b-services" id="services">
+<section class="b-content-section b-services gray" id="services">
   <div class="row">
     <div class="column">
       <h2 class="e-section-title">Nos services</h2>
     </div>
   </div>
-  <div class="row">
-    <div class="large-4 columns">
-      <div class="b-service-image b-circle">
-        <img src="theme/img/services-standards.jpg" alt="">
+  <div class="row full-width three-column" id="services-columns">
+    <div class="column large-4" id="services-1">
+      <div class="col-header ">
+        <div class="display-table">
+          <div class="icon-wrap display-cell">
+            <img src="theme/img/icons/ourservices1.png" alt="">
+            <h3 class="column-title">Community</h3>
+          </div>
+        </div>
       </div>
-      <h2>Développement de standards de données</h2>
-      <p>Nous concevons des modèles de données et des formats de données utilisés par des gouvernements, des organismes sans but lucratif et des entreprises pour rendre les données civiques utiles et interopérables, incluant <a href="http://open511.org/">Open511</a> pour les événements routiers. Nous collaborons à d’autres standards, incluant <a href="http://standard.open-contracting.org/">Open Contracting</a>.</p>
+      <div class="col-content text-center">
+        <p>As cofounders of the Canadian Open Government Civil Society Network , we are invested in fostering a large open data community by building a diverse, dynamic and sustainable ecosystem locally and on a global scale to demonstrate the economic and social benefits of open data. Our role as an active stakeholder and leader in the community allows us to advocate and promote data standards and best practices in a variety of different ways, including participating on juries, counseling tech projects, as well as coorganizing events such as the Canadian Open Data Summit and the International Open Data Day. Our goal is simple: to work together with both the public and social sectors in order to bring innovation, cuttingedge technology and transparency to their operations.</p>
+      </div>
     </div>
-
-    <div class="large-4 columns">
-      <div class="b-service-image b-circle">
-        <img src="theme/img/services-data.jpg" alt="">
+    <div class="column large-4" id="services-2">
+      <div class="col-header">
+        <div class="display-table">
+          <div class="icon-wrap display-cell">
+            <img src="theme/img/icons/ourservices3.png" alt="">
+            <h3 class="column-title">Government</h3>
+          </div>
+        </div>
       </div>
-      <h2>Portail de données ouvertes gouvernementales</h2>
-      <p>Nous aidons les gouvernements à concevoir des processus de publication et des meilleures pratiques. En tant que codirigeant de l'activité de standardisation de l'<a href="http://www.opengovpartnership.org/groups/opendata/">Open Data Working Group</a> de l'<a href="http://www.opengovpartnership.org/">Open Government Partnership</a>, nous rédigeons des pratiques recommandées pour les portails de données ouvertes, afin de promouvoir l'utilisation de standards pour faciliter l'utilisation des données ouvertes.</p>
+      <div class="col-content middle text-center">
+        <p>Through our diverse methods of applied research, we provide local governments with open data roadmaps to get them where they want and need to go. From studies on stakeholders’ needs, like the Open Data 150, to impact assessments to key recommendation reports , we offer not only the strategic insight to innovating systems, but a list of tools as well. With Citizen Budget, OpenData511, our local open data package and APIs such as this one, we have a wealth of experience developing standards and putting them into practice in ways that have a concrete impact on everyday lives. We understand that all this can sometimes feel overwhelming it is after all a big cultural shift. That’s why we also offer open data and leadership training for public servants, particularly on datadriven management.</p>
+      </div>
     </div>
-
-    <div class="large-4 columns">
-      <div class="b-service-image b-circle">
-        <img src="theme/img/services-monitoring.jpg" alt="">
+    <div class="column large-4" id="services-3">
+      <div class="col-header">
+        <img src="theme/img/icons/ourservices2.png" alt="">
+        <h3 class="column-title">Parliament</h3>
       </div>
-      <h2>Outils de surveillance des législations</h2>
-      <p>Nos outils en ligne permettent aux citoyens de facilement exercer leur influence et de participer activement aux processus décisionnels. Au Canada, nous faisons équipe avec <a href="http://www.springtidecollective.ca/">Springtide Collective</a> pour créer <a href="http://www.openhousens.ca/">OpenHouseNS</a>. À l’international, <a href="http://represent.poplus.org/">Represent Boundaries</a>, notre composante <a href="http://poplus.org/">Poplus</a>, est utilisée par certains des sites web sur la démocratie les plus populaires, incluant <a href="https://www.govtrack.us/">GovTrack.us</a>.</p>
+      <div class="col-content text-center ">
+        <p>As a supporter of the Declaration on Open Parliamentary Openness, it is important for us to contribute to regional and international initiatives by offering strategic and technical support for open parliament action plans. That means not only conducting extensive research on legislative openness, but offering up new and meaningful ways to make legislative data more accessible. With a strong record in building websites like OpenHouse Nova Scotia and creating groundbreaking tools like ReadyReckoner, we have quickly become Canada’s leading open data nonprofit.</p>
+      </div>
     </div>
   </div>
 </section>
@@ -118,15 +183,15 @@ redirect_from:
 <section class="b-content-section m-dark-panel b-subscribe b-call-to-action">
   <form action="http://opennorth.us2.list-manage.com/subscribe/post?u=a602fac79ef3dc584bf1a2743&amp;id=49afb9ad21" method="post" target="_blank" class="form-inline">
     <div class="row">
-      <div class="column">
+      <div class="large-6 columns">
         <h3 class="e-call-to-action-title">Inscrivez-vous à notre bulletin d’information</h3>
       </div>
-      <div class="large-8 columns large-centered">
+      <div class="large-6 columns">
         <div class="row collapse">
-          <div class="large-9 small-7 columns">
+          <div class="large-8 small-7 columns">
             <input type="email" name="EMAIL" required placeholder="Courriel">
           </div>
-          <div class="large-3 small-5 columns">
+          <div class="large-4 small-5 columns">
             <input type="submit" name="subscribe" class="button postfix" value="S'inscrire">
           </div>
         </div>
@@ -135,10 +200,10 @@ redirect_from:
   </form>
 </section>
 
-<section class="b-content-section b-logos">
+<section class="b-content-section b-logos border-bottom">
   <div class="row">
     <div class="column">
-      <h2 class="e-section-title">Nos clients</h2>
+      <h2 class="e-section-title big">Nos clients</h2>
       <p class="b-text-block">Nous faisons équipe avec des gouvernements, des organismes sans but lucratif, des entreprises, des médias et des écoles de toutes tailles, incluant:</p>
     </div>
   </div>
@@ -156,10 +221,10 @@ redirect_from:
   </div>
 </section>
 
-<section class="b-content-section b-logos">
+<section class="b-content-section b-logos border-bottom">
   <div class="row">
     <div class="column">
-      <h2 class="e-section-title">Nos partenaires</h2>
+      <h2 class="e-section-title big">Nos partenaires</h2>
     </div>
   </div>
   <div class="row">
@@ -176,7 +241,7 @@ redirect_from:
   </div>
 </section>
 
-<section class="b-content-section b-people" id="a-propos">
+<section class="b-content-section b-people border-bottom" id="a-propos">
   <div class="row">
     <div class="column">
       <h2 class="e-section-title">À propos</h2>
