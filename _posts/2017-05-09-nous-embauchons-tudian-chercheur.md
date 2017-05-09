@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: Nous embauchons! Étudiant-chercheur
+author: Nord ouvert
 ---
 Étudiant-chercheur – la capacité numérique des organismes du secteur social
 
