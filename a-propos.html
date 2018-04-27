@@ -1,0 +1,83 @@
+---
+title: À propos
+layout: default
+permalink: /a-propos
+---
+
+<section class="b-content-section">
+  <div class="row">
+    <div class="column">
+      <h2 class="e-section-title">À propos</h2>
+      <p>Fondé en 2011, Nord Ouvert est le principal organisme sans but lucratif du Canada spécialisé dans les données ouvertes, les gouvernements ouverts, la participation communautaire, les villes intelligentes et la technologie civique. Nous travaillons en collaboration avec les villes les plus grandes, les plus innovantes et les plus connectées du Canada. Notre réseau s’étend partout à travers le pays et le monde, par l’entremise de communautés de pratiques et de partenaires gouvernementaux ouverts. À titre de gardien de la Charte internationale sur les données ouvertes, nous en appliquons les <a href="https://opendatacharter.net/principles-fr/" target="_blank">principes</a> et les traduisons en stratégies et feuilles de route gouvernementales. Nous travaillons ainsi à promouvoir une utilisation efficace des données en tant qu’infrastructure facilitant une collaboration soutenue entre le gouvernement, la société civile et le public.</p>
+      <h3>Une longueur d’avance</h3>
+      <ul>
+        <li><strong>Leadership à l’échelle locale et mondiale.</strong> Des gouvernements et des organisations internationales ont reconnu Nord Ouvert comme étant un chef de file dans son domaine.</li>
+        <li><strong>Rassembleur.</strong> Nous relions les réseaux mondiaux de données ouvertes et de gouvernements ouverts à nos contextes nationaux et écosystèmes locaux, de façon à améliorer le partage des connaissances, la collaboration et l’interopérabilité des données.</li>
+        <li><strong>Inclusif.</strong> Nous encourageons la participation de tous les types d’intervenants, car nous croyons que la résolution de problèmes complexes passe par une harmonisation des valeurs et des intérêts communs, qui ne peut être possible qu’en présence de collaboration entre toutes les administrations et les secteurs pertinents.</li>
+        <li><strong>Favorable aux projets gouvernementaux.</strong> Nous comprenons que les possibilités qui s’offrent aux villes d’aujourd’hui peuvent parfois entraîner des changements organisationnels qui nécessitent une réflexion attentive et des approches adaptées.</li>
+        <li><strong>Partie intégrante de la communauté technologique civique.</strong> Nous croyons aux principes de coproduction et de création conjointe et les appliquons dans le cadre de nos collaborations avec les gouvernements.</li>
+      </ul>
+      <p class="text-center email"><a href="mailto:info@opennorth.ca">Joignons nos efforts</a></p>
+    </div>
+  </div>
+</section>
+
+</section>
+
+<section class="b-content-section b-people" id="team">
+  <div class="row">
+    <div class="column">
+      <h2 class="e-section-title">Notre équipe</h2>
+      <p class="text-center">Notre équipe dynamique est composée de professionnels d’expérience possédant une expertise spécialisée dans plusieurs domaines : la planification gouvernementale, stratégique et opérationnelle, l’accès à l’information, les technologies de l’information, le secteur privé, la création de normes sur les données, le développement international en recherche appliquée, l’élaboration de politiques et le développement de logiciels.</p>
+    </div>
+
+    {% for person in site.data.staff %}
+    <div class="medium-4 small-6 columns{% if forloop.last %} end{% endif %}">
+      <div class="b-card m-team">
+        <div class="e-card-picture" style="background-image: url('{{ site.baseurl }}/theme/img/people/{{ person.name | slugify }}.jpg')">
+          {% if person.linkedin %}
+          <a class="b-social-media" href="{{ person.linkedin }}"><i class="fa fa-lg fa-linkedin"></i></a>
+          {% endif %}
+          {% if person.url %}
+          <a class="b-social-media" href="{{ person.url }}"><i class="fa fa-lg fa-link"></i></a>
+          {% endif %}
+        </div>
+        <div class="e-card-content">
+          <h3>{{ person.name }}</h3>
+          <h4>{{ person.role | markdownify}}</h4>
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</section>
+
+<section class="b-content-section b-people">
+ <div class="row">
+   <div class="column">
+     <h2 class="e-section-title">Le conseil d’administration et le fondateur</h2>
+   </div>
+
+   {% for person in site.data.board %}
+   <div class="medium-4 small-6 columns{% if forloop.last %} end{% endif %}">
+     <div class="b-card m-team">
+       <div class="e-card-picture" style="background-image: url('{{ site.baseurl }}/theme/img/people/{{ person.name | slugify }}.jpg')">
+         {% if person.linkedin %}
+         <a class="b-social-media" href="{{ person.linkedin }}"><i class="fa fa-lg fa-linkedin"></i></a>
+         {% endif %}
+         {% if person.url %}
+         <a class="b-social-media" href="{{ person.url }}"><i class="fa fa-lg fa-link"></i></a>
+         {% endif %}
+       </div>
+       <div class="e-card-content">
+         <h3>{{ person.name }}</h3>
+         {% if person.summary %}
+         <h4>{{ person.summary }}</h4>
+         {% endif %}
+         <h4>{{ person.role }}</h4>
+       </div>
+     </div>
+   </div>
+   {% endfor %}
+ </div>
+</section>
