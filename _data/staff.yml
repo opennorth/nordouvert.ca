@@ -1,37 +1,38 @@
 - name: Jean-Noé Landry
   role: Directeur général
   linkedin: https://www.linkedin.com/in/jeannoelandry
-- name: Jackie Stamp Smeaton
-  role: Chef de bureau
-  linkedin: https://www.linkedin.com/in/jacqueline-stamp-smeaton-988838123/
-- name: Rachel Bloom
-  role: Chef de projet \| *Open Smart Cities in Canada*
-- name: Joel Ornoy
-  role: Directeur du développement des affaires \| Budget citoyen
-  linkedin: https://www.linkedin.com/pub/joel-ornoy/24/193/292
-- name: Christian Medina
-  role: Soutien à la clientèle et spécialiste technique \| Budget citoyen
-  linkedin: https://www.linkedin.com/in/christian-medina-64266519/
 - name: Suthee Sangiambut
   role: Agent de recherche et de politique
   linkedin: https://www.linkedin.com/in/suthee/
+- name: Hannah Ker
+  role: Analyste des Données Ouvertes
+  linkedin: https://ca.linkedin.com/in/hannah-ker-991007115
+- name: Christian Medina
+  role: Soutien à la clientèle et spécialiste technique \| Budget citoyen
+  linkedin: https://www.linkedin.com/in/christian-medina-64266519/
+- name: Miranda Sculthorp
+  role: Analyste de Recherche Urbaine
+  linkedin: https://www.linkedin.com/in/miranda-sculthorp-76883040/
+- name: Jackie Stamp Smeaton
+  role: Chef de bureau
+  linkedin: https://www.linkedin.com/in/jacqueline-stamp-smeaton-988838123/
+- name: Joel Ornoy
+  role: Directeur du développement des affaires \| Budget citoyen
+  linkedin: https://www.linkedin.com/pub/joel-ornoy/24/193/292
+- name: Saad Sabb
+  role: Soutien à la clientèle et spécialiste technique \| Budget citoyen
+  linkedin: https://www.linkedin.com/in/saadsab/
+- name: Jaime MacLean
+  role: Développeuse
+  linkedin: https://www.linkedin.com/in/jaime-m-22a242139
 - name: Jury Konga
   role: Expert associé \| *Open Cities Strategies*
   linkedin: https://www.linkedin.com/in/jurykonga/
 - name: Michael Mulley
   role: Chargé de *Open 511* et conseiller pour *Open Parliament*
   linkedin: https://www.linkedin.com/in/michael-mulley-1116b821/
-- name: Carly Livingstone
-  role: Stagiaire \| *Open Smart Cities in Canada*
 - name: Alyssa Beaton
   role: Consultant
   linkedin: https://www.linkedin.com/in/alyssa-beaton-51a057138/
-- name: Jaime MacLean
-  role: Développeuse
-  linkedin: https://www.linkedin.com/in/jaime-m-22a242139
-- name: Hannah Ker
-  role: Analyste des Données Ouvertes
-  linkedin: https://ca.linkedin.com/in/hannah-ker-991007115
-- name: Saad Sabb
-  role: Soutien à la clientèle et spécialiste technique \| Budget citoyen
-  linkedin: https://www.linkedin.com/in/saadsab/
+- name: Rachel Bloom
+  role: Consultante en Recherche sur les Villes Ouvertes Intelligentes
