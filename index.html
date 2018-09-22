@@ -16,7 +16,11 @@ redirect_from:
         <div class="display-table">
           <div class="medium-12 columns display-cell">
             <a href="https://ouvert.canada.ca/fr/toolkit/diy" target="_blank">
-              <img class="screenshot" src="{{ site.baseurl }}/theme/img/accueil-trousse-d-outils.jpg" alt="" />
+              <picture>
+                <source srcset="theme/img/accueil-trousse-d-outils.jpg"
+                        media="(min-width: 800px)">
+                <img src="theme/img/accueil-trousse-d-outils-sm.jpg">
+              </picture>
             </a>
           </div>
         </div>
