@@ -1,0 +1,32 @@
+- name: À propos
+  link: /a-propos
+  children:
+    - childname: Notre équipe
+      childlink: /a-propos#equipe
+- name: Expertise
+  link: /nos-services
+  children:
+    - childname: Nos services
+      childlink: /nos-services
+    - childname: Notre portée
+      childlink: /notre-portee
+    - childname: Publications
+      childlink: /publications
+    - childname: Travailler avec nous
+      childlink: /travailler-avec-nous
+- name: Budget citoyen
+  link: http://www.budgetcitoyen.com/
+  target: _blank
+- name: News
+  link: /blog
+  children:
+    - childname: Blogue
+      childlink: /blogue
+    - childname: Webinars
+      childlink: /webinars
+    - childname: Newsroom
+      childlink: /newsroom
+    - childname: Bulletin d’information
+      childlink: /bulletin
+- name: FR
+  link: http://www.nordouvert.ca/
