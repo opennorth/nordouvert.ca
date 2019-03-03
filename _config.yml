@@ -1,13 +1,138 @@
+title: Nord Ouvert
+logo: /theme/img/open-north-logo-header-black-fr.png
+language: fr
+baseurl:
+permalink: /:year/:month/:day/:title
+social:
+  name: Open North
+  links:
+    - https://twitter.com/opennorth
+    - https://www.facebook.com/OpenNorth.NordOuvert
+    - https://www.linkedin.com/company/open-north/
+    - https://github.com/opennorth/
+
+paginate: 20
+paginate_path: "/blog/page:num/"
+include: ["_pages"]
+collections_dir: collections
+collections:
+  impacts:
+  jobs:
+    output: true
+  publications:
+  webinars:
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+  - scope:
+      path: "collections"
+      type: "impacts"
+    values:
+      feature: false
+  - scope:
+      path: "collections/_jobs"
+      type: "jobs"
+    values:
+      layout: "job"
+  - scope:
+      path: "collections/_posts"
+      type: "posts"
+    values:
+      layout: "post"
+
 sass:
   style: :compressed
   sass_dir: theme/_sass
-gems:
+
+plugins:
   - jekyll-redirect-from
-language: fr
-baseurl: 
+  - jekyll-paginate
+
 prose:
+  siteurl: https://www.nordouvert.ca/
   metadata:
-    _posts:
+    collections/_impacts:
+      - name: title
+        field:
+          element: text
+          label: Title
+          placeholder: Impact Title
+          help: All impact items must have a title.
+          value: ""
+      - name: featured
+        field:
+          element: select
+          label: Featured
+          placeholder: "Is this a featured impact?"
+          help: Select to display impact in the 'featured' section at the top of the Impacts page.
+          value: true
+          options:
+            - name: Do not feature.
+              value: false
+            - name: Make featured.
+              value: true
+      - name: link
+        field:
+          element: text
+          label: Project Link
+          placeholder: Optional - link to additional project information
+          help: Optional field.
+          value: ""
+      - name: image
+        field:
+          element: text
+          label: Image
+          placeholder: impact-name.jpg
+          help: Enter the name of the image file, ie. impact-title.jpg. Image must be uploaded to /theme/img/impacts/ folder in the Theme repository.
+          value: ""
+      - name: testimonial
+        field:
+          element: textarea
+          label: Testimonial
+          placeholder: Optional - enter quote
+          help: Enter a relevent quote. Accepts markdown syntax.
+          value: ""
+      - name: cite
+        field:
+          element: textarea
+          label: Testimonial Source
+          placeholder: If using testimonial, enter the quote source here
+          help: Enter the source of the testimonial. Accepts markdown syntax.
+          value: ""
+    collections/_jobs:
+      - name: layout
+        field:
+          element: hidden
+          value: job
+      - name: published
+        field:
+          element: hidden
+          value: true
+      - name: title
+        field:
+          element: text
+          label: Title
+          placeholder: The job title
+          help: All jobs must have a title. This should be the job title as well as the page title.
+          value: ""
+      - name: short_description
+        field:
+          element: textarea
+          label: Short Description
+          placeholder: Short description of the job posting
+          help: Description will be displayed on the 'Current Jobs' page.
+          value: ""
+      - name: location
+        field:
+          element: text
+          label: Location
+          placeholder: "example: Montreal"
+          help: Enter location of position.
+          value: ""
+    collections/_posts:
       - name: layout
         field:
           element: hidden
@@ -20,6 +145,7 @@ prose:
         field:
           element: text
           label: Title
+          placeholder: The post title
           help: All posts must have a title.
           value: ""
       - name: author
@@ -27,4 +153,79 @@ prose:
           element: text
           label: Author
           help: All posts must have an author.
+          value: ""
+      - name: image
+        field:
+          element: text
+          label: Image
+          placeholder: DDDD-MM-YY-descriptive-lowercase-title.jpg
+          help: Enter the name of the image that you uploaded to the /img/blog folder of the theme repository. This image will appear with the title and description on the Blog page and at the top of the post. Additional images can be added to the post's body.
+      - name: categories
+        field:
+          element: multiselect
+          label: Categories
+          placeholder: "Choose categories"
+          help: Enter relevent categories from OpenNorth's post categories. If a relevant category does not already exist, please suggest it.
+          options:
+            - name: Newsletter
+              value: 'newsletter'
+            - name: Press Release
+              value: 'press release'
+    collections/_publications:
+      - name: title
+        field:
+          element: text
+          label: Title
+          placeholder: Publication Title
+          help: All publications must have a title.
+          value: ""
+      - name: cover_image
+        field:
+          element: text
+          label: Cover image
+          placeholder: publication-title.png
+          help: Enter the name of the image file, ie. publication-title.png. This should be an image of the publication's cover (a screenshot works). Image must be uploaded to /theme/img/publications/ folder in Theme repository.
+          value: ""
+      - name: link
+        field:
+          element: text
+          label: Link
+          placeholder: http://www.example.com/link-to-full-publication
+          help: Enter the link to the publication.
+          value: ""
+    collections/_webinars:
+      - name: title
+        field:
+          element: text
+          label: Title
+          placeholder: The Webinar Title
+          help: All webinars must have a title.
+          value: ""
+      - name: date
+        field:
+          element: text
+          label: Date
+          help: Enter the date that the webinar aired in the format YYYY-MM-DD.
+          placeholder: CURRENT_DATETIME
+          value: ""
+      - name: video_embed
+        field:
+          element: text
+          label: Video embed code
+          placeholder: <iframe src="https://player.vimeo.com/video/265436607" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+          help: Enter the <iframe> embed code generated by the 'share' on vimeo or youtube, wrapped in single quotes. Remove any extra markup added by the platform.
+          value: ""
+      - name: title_link
+        field:
+          element: text
+          label: Title link
+          placeholder: http://www.example.com/link-to-related-information
+          help: Optional. Enter link to other documents, to be added to webinar title.
+          value: ""
+      - name: expanded_content
+        field:
+          element: textarea
+          label: Expanded content
+          placeholder: Optional field.
+          help: Enter accordion text. Accepts markdown syntax; use "<br />" tags to create line breaks. Will be displayed when user clicks "show more".
           value: ""
