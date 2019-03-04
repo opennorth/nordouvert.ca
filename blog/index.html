@@ -2,19 +2,86 @@
 layout: default
 title: Blogue Nord Ouvert
 ---
-<section class="b-content-section b-blog">
+<section class="b-title-section b-blog">
   <div class="row">
     <div class="column">
-      <h2 class="e-section-title">Blogue</h2>
-
-      <ul>
-      {% for page in site.posts %}
-        <li>
-          <a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
-          <time datetime="{{ page.date }}">{{ page.date | date: "%B %e, %Y" }}</time>
-        </li>
-      {% endfor %}
-      </ul>
+      <h2 class="e-page-title">Blogue</h2>
+      <p class="text-center">Get involved in the conversation with our municipal partners, citizens, and staff. On our blog you will find all of our latest news and innovations.</p>
     </div>
   </div>
 </section>
+
+<div class="background-subtle" id="top">
+  <section class="b-content-section b-blog featured-list">
+    <div class="row">
+        {% for post in paginator.posts %}
+          <div class="featured-item blog-item{% if forloop.last %} end{% endif %}">
+            <a href="{{ site.baseurl }}{{ post.url }}">
+              <article>
+                {% if post.image %}
+                  <div class="post-text">
+                    <h3>{{ post.title }}</h3>
+                    <time datetime="{{ post.date }}">{{ post.date | date: "%B %e, %Y" }}</time>
+                    {% if post.description !=null %}
+                      {{ post.description | markdownify }}
+                    {% else %}
+                      <p>{{ post.excerpt | strip_html | truncatewords: 50 }}</p>
+                    {% endif %}
+                  </div>
+                  <div class="post-image" style="background-image: url('{{ post.image }}');"></div>
+                {% else %}
+                  <div>
+                    <h3>{{ post.title }}</h3>
+                    <time datetime="{{ post.date }}">{{ post.date | date: "%B %e, %Y" }}</time>
+                    {% if post.description !=null %}
+                      {{ post.description | markdownify }}
+                    {% else %}
+                      <p>{{ post.excerpt | strip_html | truncatewords: 50 }}</p>
+                    {% endif %}
+                  </div>
+                {% endif %}
+              </article>
+            </a>
+          </div>
+        {% endfor %}
+    </div>
+  </section>
+
+  <section class="b-content-section post-navigation">
+
+    {% if paginator.total_pages > 1 %}
+    <div class="pagination">
+      {% if paginator.previous_page %}
+        <a href="{{ paginator.previous_page_path | relative_url }}" class="prev">
+          Prev
+        </a>
+      {% else %}
+        <!--span>&laquo; Prev</span-->
+      {% endif %}
+
+      {% for page in (1..paginator.total_pages) %}
+        {% if page == paginator.page %}
+          <em>{{ page }}</em>
+        {% elsif page == 1 %}
+          <a href="{{ paginator.previous_page_path | relative_url }}">
+            {{ page }}
+          </a>
+        {% else %}
+          <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">
+            {{ page }}
+          </a>
+        {% endif %}
+      {% endfor %}
+
+      {% if paginator.next_page %}
+        <a href="{{ paginator.next_page_path | relative_url }}" class="next">
+          Next
+        </a>
+      {% else %}
+        <!--span>Next &raquo;</span-->
+      {% endif %}
+    </div>
+    {% endif %}
+
+  </section>
+</div>
