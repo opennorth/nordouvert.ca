@@ -21,7 +21,7 @@
   link: /blog
   children:
     - childname: Blogue
-      childlink: /blogue
+      childlink: /blog
     - childname: Webinars
       childlink: /webinars
     - childname: Newsroom
