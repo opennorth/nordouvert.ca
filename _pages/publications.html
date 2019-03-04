@@ -1,0 +1,46 @@
+---
+title: Publications
+layout: default
+permalink: /publications/
+---
+<section class="b-title-section" id="reports">
+	<div class="row">
+		<div class="column">
+			<h2 class="e-page-title">Publications</h2>
+			<p class="text-center">OpenNorth has published a variety of papers and best practice guides with partners internationally that deliver impactful results for municipal officials and their citizens.</p>
+		</div>
+	</div>
+</section>
+
+<div class="background-subtle publications" id="top">
+	<section class="b-content-section publications featured-list three-column">
+		<div class="row">
+			{% for item in site.publications reversed %}
+				<div class="featured-item {% if forloop.last %} end{% endif %}">
+					<a href="#{{ item.title | slugify }}">
+						{% if item.cover_image %}<div class="featured-image" style="background-image: url(/theme/img/publications/{{ item.cover_image }});"></div>{% endif %}
+						<div class="featured-description">
+							<h3 class="text-center">{{ item.title }}</h3>
+						</div>
+					</a>
+				</div>
+			{% endfor %}
+		</div>
+	</section>
+</div>
+
+<section class="b-content-section content-list">
+	<div class="row">
+		{% for item in site.publications reversed %}
+			<div>
+				<h3 id="{{ item.title | slugify }}">{{ item.title }}</h3>
+				<div class="clearfix">
+					{% if item.cover_image %}<img src="/theme/img/publications/{{ item.cover_image }}">{% endif %}
+					<p>{{ item.content | markdownify }}</p>
+					{% if item.link %}<a href="{{ item.link }}" class="link" target="_blank">Lire le rapport</a>{% endif %}
+				</div>
+				<p class="text-right"><a href="#top" class="anchor">Haut</a></p>
+			</div>
+		{% endfor %}
+	</div>
+</section>

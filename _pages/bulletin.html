@@ -1,0 +1,54 @@
+---
+title: Bulletin d’information
+layout: default
+permalink: /bulletin/
+---
+<section class="b-title-section" id="newsletter">
+	<div class="row">
+		<div class="column">
+			<h2 class="e-page-title">Subscribe to our Newsletter</h2>
+			<p class="text-center">Our newsletter reports on all of our latest news and expansion of the organization into its new mission. Sign-up to receive a digital link and PDF of it.</p>
+			  <span class="button center"><a data-target="subscribe">Subscribe to our Newsletter</a></span>
+		</div>
+	</div>
+</section>
+{% if post.categories contains 'newsletter' %}
+<div class="background-subtle">
+	<section class="b-content-section news b-blog featured-list">
+		<div class="row">
+				{% for post in site.posts %}
+					{% if post.categories contains 'newsletter' %}
+						<div class="featured-item blog-item{% if forloop.last %} end{% endif %}">
+							<a href="{{ site.baseurl }}{{ post.url }}">
+								<article>
+									{% if post.image %}
+										<div class="post-text">
+											<h3>{{ post.title }}</h3>
+											<time datetime="{{ post.date }}">{{ post.date | date: "%B %e, %Y" }}</time>
+											{% if post.description !=null %}
+												{{ post.description | markdownify }}
+											{% else %}
+												<p>{{ post.excerpt | strip_html | truncatewords: 50 }}</p>
+											{% endif %}
+										</div>
+										<div class="post-image" style="background-image: url('{{ post.image }}');"></div>
+									{% else %}
+										<div>
+											<h3>{{ post.title }}</h3>
+											<time datetime="{{ post.date }}">{{ post.date | date: "%B %e, %Y" }}</time>
+											{% if post.description !=null %}
+												{{ post.description | markdownify }}
+											{% else %}
+												<p>{{ post.excerpt | strip_html | truncatewords: 50 }}</p>
+											{% endif %}
+										</div>
+									{% endif %}
+								</article>
+							</a>
+						</div>
+					{% endif %}
+		    {% endfor %}
+	  </div>
+	</section>
+</div>
+{% endif %}
