@@ -3,6 +3,7 @@ layout: post
 title: "Cette semaine à Gouvernement Ouvert"
 author: Ellie Marshall
 date: 2013-03-15 10:00:00
+image: /theme/img/blog/2013-03-14-roundtable.jpg
 ---
 <img src="http://blogue.nordouvert.ca/img/blog/2013-03-14-roundtable.jpg" width="587" height="270" alt="">
 
@@ -16,8 +17,8 @@ Il y a plusieurs idées intéressantes amenées à cette rencontre qui méritent
 
 - Données.gc.ca doit être plus user-friendly et accessible aux non-codeurs et aux citoyens qui commencent à comprendre les données. On a suggéré de créer une section “données ouvertes 101” au site web et d’améliorer les fonctionnalités de recherche.
 
-- Les données essentielles, [comme les données postales](http://blogue.nordouvert.ca/2013/03/08/les-donnees-de-code-postaux-maintenant/) qui peuvent enrichir plusieurs autres bases de données selon Joe Greenwood (http://ca.linkedin.com/in/joegreenwood), doivent être ouvertes et sans droits d’auteur. 
+- Les données essentielles, [comme les données postales](http://blogue.nordouvert.ca/2013/03/08/les-donnees-de-code-postaux-maintenant/) qui peuvent enrichir plusieurs autres bases de données selon Joe Greenwood (http://ca.linkedin.com/in/joegreenwood), doivent être ouvertes et sans droits d’auteur.
 
-- Organiser et archiver les données sont des tâches aussi importantes qu’augmenter l’utilisation des données gouvernementales. La façon dont nous choisissons de préserver et de comparer les données aura un effet sur leur utilisation et leur compréhension. L’implication de bibliothécaires, comme [Marcel Fortin](http://www.linkedin.com/pub/marcel-fortin/26/611/65b), au sein de la conversation avec des développeurs issus de la société civile permettra d’approfondir les données ouvertes au Canada. 
+- Organiser et archiver les données sont des tâches aussi importantes qu’augmenter l’utilisation des données gouvernementales. La façon dont nous choisissons de préserver et de comparer les données aura un effet sur leur utilisation et leur compréhension. L’implication de bibliothécaires, comme [Marcel Fortin](http://www.linkedin.com/pub/marcel-fortin/26/611/65b), au sein de la conversation avec des développeurs issus de la société civile permettra d’approfondir les données ouvertes au Canada.
 
 - David Eaves a annoncé que le hashtag [#datagc](https://twitter.com/search?q=%23datagc&src=typd) sera utilisé par le Conseil du Trésor pour obtenir le point de vue des Canadiens sur le futur du portail. Nous continuerons à contribuer à #datagc et nous avons hâte de discuter à nouveau avec M. Clement.

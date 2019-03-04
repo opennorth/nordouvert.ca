@@ -2,6 +2,7 @@
 layout: post
 title: "Je Veux Savoir, fin d’une belle aventure"
 author: Stéphane Guidoin
+image: /theme/img/blog/2015-06-15-jeveuxsavoir.png
 ---
 ## Historique
 

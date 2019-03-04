@@ -3,6 +3,7 @@ published: true
 layout: post
 title: 'Infolettre: hiver 2017'
 author: Nord Ouvert
+categories: [ 'bulletin' ]
 ---
 Jetez un œil à ce qui nous a tenus occupés dans la dernière année et à
 nos nouveaux projets pour 2017...

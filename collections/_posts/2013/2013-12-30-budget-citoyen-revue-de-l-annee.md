@@ -3,12 +3,13 @@ layout: post
 title: "Budget Citoyen: Revue de l’année 2013"
 author: Ellie Marshall
 date: 2013-12-30 22:00
+image: /theme/img/blog/utility-fees.jpg
 ---
-Budget Citoyen a connu une croissance importante en 2013. Nous avons lancé un [nouveau site web](http://budgetcitoyen.com/), participé à nos premières foires commerciales et travaillé avec plus d'une douzaine de municipalités à travers le Canada. Budget Citoyen est un simulateur de budget en ligne flexible utilisé par les municipalités pour recueillir les préférences des résidents et des commentaires sur le budget local de manière facile, engageante et pédagogique. 
+Budget Citoyen a connu une croissance importante en 2013. Nous avons lancé un [nouveau site web](http://budgetcitoyen.com/), participé à nos premières foires commerciales et travaillé avec plus d'une douzaine de municipalités à travers le Canada. Budget Citoyen est un simulateur de budget en ligne flexible utilisé par les municipalités pour recueillir les préférences des résidents et des commentaires sur le budget local de manière facile, engageante et pédagogique.
 
 ### Nouvelles fonctionnalités
 
-Nous travaillons en étroite collaboration avec les municipalités afin d’adapter Budget Citoyen à leurs besoins. Cette année, plusieurs des améliorations d’abord offertes à un seul client ont été reprises par d’autres municipalités et sont maintenant au coeur de notre outil de consultation. 
+Nous travaillons en étroite collaboration avec les municipalités afin d’adapter Budget Citoyen à leurs besoins. Cette année, plusieurs des améliorations d’abord offertes à un seul client ont été reprises par d’autres municipalités et sont maintenant au coeur de notre outil de consultation.
 
 <p style="text-align: center;"><img src="{{ site.baseurl }}/theme/img/blog/utility-fees.jpg" width="450" height="95" alt=""></p>
 
@@ -33,8 +34,8 @@ Particulièrement utile pour les consultations comprenant de très longs questio
 En 2013, nous avons lancé 12 consultations à travers le Canada. Voici quelques moments forts de ces consultations:
 
 - Les consultations bilingues à Dieppe, au Nouveau-Brunswick, et à Cornwall, en Ontario
-- Les 559 soumissions budgétaires à Edmonton en seulement 17 jours 
-- La consultation sur la taxe pour les déchets solides et sur les frais d’utilisation des activités récréatives pour adultes en plus des taxes résidentielles à Yellowknife, dans les Territoires du Nord-Ouest 
+- Les 559 soumissions budgétaires à Edmonton en seulement 17 jours
+- La consultation sur la taxe pour les déchets solides et sur les frais d’utilisation des activités récréatives pour adultes en plus des taxes résidentielles à Yellowknife, dans les Territoires du Nord-Ouest
 - L’harmonisation de la plate-forme au site web de la municipalité afin de créer une expérience fluide pour les résidents de Markham, en Ontario
 
 ### Où nous trouver en 2014
