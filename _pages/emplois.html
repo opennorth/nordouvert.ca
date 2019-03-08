@@ -6,15 +6,12 @@ permalink: /emplois/
 <section class="b-title-section" id="work-with-us">
   <div class="row">
     <div class="column medium-12">
-      <h2 class="e-page-title">Current Jobs</h3>
+      <h2 class="e-page-title">Emplois</h3>
     </div>
   </div>
 
   <div class="row">
     <div class="column">
-      <p>OpenNorth was founded in 2011 to make democracy better, and has since developed into one of the world's leading not-for-profit organization specialized in open data and civic technology.</p>
-      <p>Want to find out more about working with OpenNorth? Get in touch:</p>
-      <p><a href="mailto:jobs@opennorth.ca" target="_blank">jobs@opennorth.ca</a> / 1-888-750-4980</p>
     </div>
   </div>
 
@@ -25,8 +22,8 @@ permalink: /emplois/
           <div class="job">
             <h4>{{ job.title }}</h4>
             <p>{{ job.short_description | markdownify }}</p>
-            {% if job.location %}<p>Location: {{ job.location | strip_html }}</p>{% endif %}
-            <p>Learn More <i class="fas fa-chevron-right"></i></p>
+            {% if job.location %}<p>Emplacement: {{ job.location | strip_html }}</p>{% endif %}
+            <p>Lire plus <i class="fas fa-chevron-right"></i></p>
           </div>
         </a>
       </div>
