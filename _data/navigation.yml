@@ -12,8 +12,8 @@
       childlink: /impact
     - childname: Publications
       childlink: /publications
-    - childname: Travailler avec nous
-      childlink: /travailler-avec-nous
+    - childname: Travaillez avec nous
+      childlink: /travaillez-avec-nous
 - name: Budget citoyen
   link: http://www.budgetcitoyen.com/
   target: _blank
