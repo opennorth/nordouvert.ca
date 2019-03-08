@@ -1,2 +1,6 @@
+.DS_Store
+.htaccess
+.bundle
 .sass-cache
 _site
+vendor
