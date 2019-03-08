@@ -1,14 +1,14 @@
 ---
-title: Bulletin d’information
+title: Infolettre
 layout: default
-permalink: /bulletin/
+permalink: /infolettre/
 ---
 <section class="b-title-section" id="newsletter">
 	<div class="row">
 		<div class="column">
-			<h2 class="e-page-title">Subscribe to our Newsletter</h2>
-			<p class="text-center">Our newsletter reports on all of our latest news and expansion of the organization into its new mission. Sign-up to receive a digital link and PDF of it.</p>
-			  <span class="button center"><a data-target="subscribe">Subscribe to our Newsletter</a></span>
+			<h2 class="e-page-title">Inscrivez-vous à notre infolettre</h2>
+			<p class="text-center">Notre infolettre vous informe des nouvelles les plus récentes et de l’expansion de notre organisation dans le cadre de sa nouvelle mission. Inscrivez-vous pour recevoir un lien vers notre infolettre et la version PDF de celle-ci.</p>
+			  <span class="button center"><a data-target="subscribe">Inscrivez-vous à notre infolettre</a></span>
 		</div>
 	</div>
 </section>
@@ -17,7 +17,7 @@ permalink: /bulletin/
 	<section class="b-content-section news b-blog featured-list">
 		<div class="row">
 				{% for post in site.posts %}
-					{% if post.categories contains 'bulletin' %}
+					{% if post.categories contains 'infolettre' %}
 						<div class="featured-item blog-item{% if forloop.last %} end{% endif %}">
 							<a href="{{ site.baseurl }}{{ post.url }}">
 								<article>

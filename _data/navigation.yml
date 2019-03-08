@@ -4,12 +4,12 @@
     - childname: Notre équipe
       childlink: /a-propos#equipe
 - name: Expertise
-  link: /nos-services
+  link: /notre-offre
   children:
-    - childname: Nos services
-      childlink: /nos-services
-    - childname: Notre portée
-      childlink: /notre-portee
+    - childname: Notre offre
+      childlink: /notre-offre
+    - childname: Impact
+      childlink: /impact
     - childname: Publications
       childlink: /publications
     - childname: Travailler avec nous
@@ -17,16 +17,16 @@
 - name: Budget citoyen
   link: http://www.budgetcitoyen.com/
   target: _blank
-- name: News
+- name: Nouvelles
   link: /blog
   children:
     - childname: Blogue
       childlink: /blog
-    - childname: Webinars
-      childlink: /webinars
-    - childname: Newsroom
-      childlink: /newsroom
-    - childname: Bulletin d’information
-      childlink: /bulletin
-- name: FR
-  link: http://www.nordouvert.ca/
+    - childname: Webinaires
+      childlink: /webinaires
+    - childname: Salle de presse
+      childlink: /salle-de-presse
+    - childname: Infolettre
+      childlink: /infolettre
+- name: EN
+  link: http://www.opennorth.ca/
