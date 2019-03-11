@@ -3,7 +3,7 @@ published: true
 layout: post
 title: "Bulletin d’information : printemps 2016"
 author: Nord Ouvert
-categories: [bulletin]
+categories: [infolettre]
 ---
 
 
