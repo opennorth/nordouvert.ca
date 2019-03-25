@@ -1,10 +1,9 @@
 ---
-published: true
+published: false
 layout: post
 title: 'Qu’est-il advenu de mes commentaires? '
 author: 'Suthee Sangiambut, Miranda Sculthorp, Marine Colon de Franciosi'
 image: 2019-03-22-microphone.jpg
-categories: ''
 ---
 ## En faveur de meilleures pratiques de collecte et de gestion de données de consultation publique
 
@@ -60,6 +59,3 @@ Nous travaillons également à renforcer les capacités en consultation publique
 
 ## Oeuvrage cité:
 Rowe, G., & Frewer, L. J. (2005). A typology of public engagement mechanisms. Science, Technology, & Human Values, 30(2), 251-290
-
-
-
