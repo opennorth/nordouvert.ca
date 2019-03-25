@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: 'Qu’est-il advenu de mes commentaires? '
 author: 'Suthee Sangiambut, Miranda Sculthorp, Marine Colon de Franciosi'
