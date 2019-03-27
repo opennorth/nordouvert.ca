@@ -6,14 +6,25 @@ layout: default
     <div class="column">
       <article>
         <header>
-          <h2>{{ page.title }}</h2>
+          <h2 class="e-page-title">{{ page.title }}</h2>
           <p>
             <time datetime="{{ page.date }}">{{ page.date | date: "%B %e, %Y" }}</time>
-            par <span rel="author">{{ page.author }}</span>
+            {% if page.author %}par <span rel="author">{{ page.author }}</span>{% endif %}
           </p>
         </header>
 
+        {% if page.image contains "http" %}
+          <div class="blog-image">
+            <img src="{{ page.image }}" class="center" />
+          </div>
+        {% else %}
+          <div class="blog-image">
+            <img src="/theme/img/blog/{{ page.image }}" class="center" />
+          </div>
+        {% endif %}
+
         {{ content }}
+
       </article>
 
       <nav class="post-navigation">
