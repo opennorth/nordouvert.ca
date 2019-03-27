@@ -3,7 +3,7 @@ layout: post
 title: "Cette semaine dans le mouvement pour l’ouverture gouvernementale..."
 author: Ellie Marshall
 date: 2013-04-23 10:00:00
-image: /theme/img/blog/2013-04-26-mamairie-57.jpg
+image: 2013-04-26-mamairie-57.jpg
 ---
 <img src="http://blogue.nordouvert.ca/img/blog/2013-04-26-mamairie-57.jpg" width="400" height="300" alt="">
 

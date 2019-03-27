@@ -3,7 +3,7 @@ layout: post
 title: "Cette semaine à Gouvernement Ouvert"
 author: Ellie Marshall
 date: 2013-03-15 10:00:00
-image: /theme/img/blog/2013-03-14-roundtable.jpg
+image: 2013-03-14-roundtable.jpg
 ---
 <img src="http://blogue.nordouvert.ca/img/blog/2013-03-14-roundtable.jpg" width="587" height="270" alt="">
 

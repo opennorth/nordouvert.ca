@@ -3,7 +3,7 @@ layout: post
 title: "Budget Citoyen: Revue de l’année 2013"
 author: Ellie Marshall
 date: 2013-12-30 22:00
-image: /theme/img/blog/utility-fees.jpg
+image: utility-fees.jpg
 ---
 Budget Citoyen a connu une croissance importante en 2013. Nous avons lancé un [nouveau site web](http://budgetcitoyen.com/), participé à nos premières foires commerciales et travaillé avec plus d'une douzaine de municipalités à travers le Canada. Budget Citoyen est un simulateur de budget en ligne flexible utilisé par les municipalités pour recueillir les préférences des résidents et des commentaires sur le budget local de manière facile, engageante et pédagogique.
 

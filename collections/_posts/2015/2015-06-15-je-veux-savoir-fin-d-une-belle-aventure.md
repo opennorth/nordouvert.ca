@@ -2,7 +2,7 @@
 layout: post
 title: "Je Veux Savoir, fin d’une belle aventure"
 author: Stéphane Guidoin
-image: /theme/img/blog/2015-06-15-jeveuxsavoir.png
+image: 2015-06-15-jeveuxsavoir.png
 description: "En 2013, nous avons eu la chance d’obtenir du soutien financier de la part du ministre responsable des Institutions démocratiques et de la Participation citoyenne, monsieur Bernard Drainville, pour l’élaboration d’un portail de demande d’accès aux documents, nommé par la suite Je Veux Savoir."
 ---
 ## Historique

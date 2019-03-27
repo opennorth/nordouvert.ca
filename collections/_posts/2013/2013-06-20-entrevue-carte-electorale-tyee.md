@@ -2,7 +2,7 @@
 layout: post
 title: "Entrevue avec les créateurs de la carte électorale du Tyee "
 author: Ellie Marshall
-image: /theme/img/blog/2013-06-20-the-tyee-map.jpg
+image: 2013-06-20-the-tyee-map.jpg
 ---
 Dans le cadre de la récente élection provinciale en Colombie-Britannique, [The Tyee](http://www.thetyee.ca), un magazine en ligne, a utilisé notre service [Represent](https://represent.opennorth.ca/) pour son [guide de l’élection provinciale en Colombie-Britannique](http://election.thetyee.ca/) et ainsi engager le dialogue entre les lecteurs et les candidats électoraux.
 
