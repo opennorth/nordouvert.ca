@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 layout: post
 title: >-
   Débats et rencontres de la participation citoyenne en France: des choses à se
@@ -25,4 +25,4 @@ Dans son ensemble, les rencontres ont permis aux participants de prendre connais
  
 Dans l’esprit de ces rencontres, nous comptons soutenir les échanges avec nos partenaires en France et au Canada, en vigueur d’améliorer l’état de participation citoyenne et la démocratie locale. De partager nos expériences et notre savoir-faire avec à des échelles locales, quant à l’internationale, nous souhaitons enrichir un écosystème de partage de connaissance, pour progresser les pratiques de gouvernance participatives et ouvertes pour les citoyens du Canada et du monde entier.
  
-En dernier lieu, nous tenons à remercier les Offices jeunesse internationaux du Québec (LOGIQ) pour leur appui à la participation de NordOuvert à cet événement, ainsi que l’équipe de Décider ensemble pour exécuter l’organisation de ces échanges à la fois inspirants et enrichissants.  
+En dernier lieu, nous tenons à remercier les Offices jeunesse internationaux du Québec (LOGIQ) pour leur appui à la participation de NordOuvert à cet événement, ainsi que l’équipe de Décider ensemble pour exécuter l’organisation de ces échanges à la fois inspirants et enrichissants.
