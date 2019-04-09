@@ -6,6 +6,9 @@ title: >-
   dire!
 author: Miranda Sculthorp
 image: 2019-04-08-grenoble-france-rencontres nationales-de-la-participation.jpg
+description: >-
+  En mars 2019 NordOuvert a assisté aux Rencontres nationales de la
+  participation à Grenoble, France.
 ---
 
 En mars 2019 NordOuvert a assisté aux _Rencontres nationales de la participation_ à Grenoble, France. Pendant trois jours des décideurs, experts, militants, praticiens et citoyens ont eu l'occasion d’échanger sur les effets des outils et dispositifs participatifs envers des meilleures instances démocratiques à l’échelle territoriale municipale, métropolitaine, européenne et régionale.
