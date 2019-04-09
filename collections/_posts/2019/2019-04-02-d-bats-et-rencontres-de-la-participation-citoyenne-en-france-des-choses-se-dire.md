@@ -1,10 +1,11 @@
 ---
-published: false
+published: true
 layout: post
 title: >-
   Débats et rencontres de la participation citoyenne en France: des choses à se
   dire!
 author: Miranda Sculthorp
+image: 2019-04-08-grenoble-france-rencontres nationales-de-la-participation.jpg
 ---
 
 En mars 2019 NordOuvert a assisté aux _Rencontres nationales de la participation_ à Grenoble, France. Pendant trois jours des décideurs, experts, militants, praticiens et citoyens ont eu l'occasion d’échanger sur les effets des outils et dispositifs participatifs envers des meilleures instances démocratiques à l’échelle territoriale municipale, métropolitaine, européenne et régionale.
