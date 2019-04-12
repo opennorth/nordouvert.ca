@@ -7,6 +7,7 @@ Le Guide des villes intelligentes ouvertes est l’aboutissement du projet de re
 
 Des liens directs sont fournis ci-dessous vers les résultats du projet :
 
+* [Guide des villes intelligentes ouvertes v1.0](https://docs.google.com/document/d/1528rqTjzKWwk4s2xKuPf7ZJg-tLlRK8WcMZQbicoGTM/ "Guide des villes intelligentes ouvertes v1.0)
 * [Les villes intelligentes ouvertes au Canada : rapport d’évaluation (en anglais)](https://osf.io/preprints/socarxiv/qbyzj/)
 * [Les villes intelligentes ouvertes au Canada : résumé de l’analyse de l’environnement et des études de cas (en anglais)](https://osf.io/preprints/socarxiv/e4fs8/)
 * [FAQ sur les villes intelligentes ouvertes (en anglais)](https://cippic.ca/en/Open_Smart_Cities)
