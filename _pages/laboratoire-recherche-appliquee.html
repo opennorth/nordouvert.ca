@@ -1,12 +1,12 @@
 ---
-title: Applied Research Lab
+title: Laboratoire de recherche appliquée
 layout: default
-permalink: /applied-research-lab/
+permalink: /laboratoire-recherche-appliquée/
 ---
 <section class="b-title-section current">
 	<div class="row">
 		<div class="column">
-			<h2 class="e-page-title">Applied Research Lab</h2>
+			<h2 class="e-page-title">Laboratoire de recherche appliquée</h2>
 			<p class="text-center">Intro paragraph here</p>
 		</div>
 	</div>
@@ -32,7 +32,7 @@ permalink: /applied-research-lab/
 
 		<div class="row two-column">
 			<div>
-				{% assign pubs = site.publications | where: "categories", "applied research lab" | reverse %}
+				{% assign pubs = site.publications | where: "categories", "laboratoire de recherche appliquée" | reverse %}
 				{% for pub in pubs limit:5 %}
 					<div class="featured-item blog-item{% if forloop.last %} end{% endif %}">
 						<a href="/publications#{{ pub.title | slugify }}">
@@ -52,7 +52,7 @@ permalink: /applied-research-lab/
 			</div>
 
 			<div>
-				{% assign posts = site.posts | where: "categories", "applied research lab" %}
+				{% assign posts = site.posts | where: "categories", "laboratoire de recherche appliquée" %}
 				{% for post in posts limit:5 %}
 					<div class="featured-item blog-item{% if forloop.last %} end{% endif %}">
 						<a href="{{ post.url }}">

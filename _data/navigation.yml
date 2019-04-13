@@ -1,6 +1,10 @@
 - name: À propos
   link: /a-propos
   children:
+    #- childname: Laboratoire de recherche appliquée
+    #  childlink: /laboratoire-recherche-appliquée
+    #- childname: One-to-One Advisory Service
+    #  childlink: /one-to-one-advisory-service
     - childname: Notre équipe
       childlink: /a-propos#equipe
 - name: Expertise
