@@ -60,7 +60,6 @@ plugins:
 
 prose:
   siteurl: https://www.nordouvert.ca/
-  media: "theme/img/"
   metadata:
     collections/_impacts:
       - name: title

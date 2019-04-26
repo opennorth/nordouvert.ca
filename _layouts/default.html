@@ -35,7 +35,7 @@
   }
   </style>
   {% if collection == posts and page.image contains "http" %}<!-- -->{% elsif page.image != null %}<meta property="og:image" content="{{ site.url }}/theme/img/blog/{{ page.image | strip }}" />{% endif %}
-  {% seo image=false %}
+  {% seo %}
 </head>
 <body id="{{ site.language }}">
 
