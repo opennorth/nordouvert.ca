@@ -1,7 +1,7 @@
 title: Nord Ouvert
 description: Nous misons sur une approche collaborative mise en œuvre à l’échelle locale et mondiale pour améliorer les villes intelligentes grâce à la recherche empirique appliquée aux problèmes urbains.
-url: nordouvert.ca
-logo: /theme/img/open-north-logo-header-black-fr.png
+url: http://nordouvert.ca
+logo: http://nordouvert.ca/theme/img/open-north-logo-header-black-fr.png
 language: fr
 baseurl:
 permalink: /:year/:month/:day/:title
@@ -32,7 +32,7 @@ defaults:
       path: ""
     values:
       layout: "default"
-      image: /theme/img/open-north-logo-header-black-fr.png
+      image: http://nordouvert.ca/theme/img/open-north-logo-header-black-fr.png
   - scope:
       path: "collections"
       type: "impacts"
