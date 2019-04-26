@@ -50,6 +50,7 @@ sass:
 plugins:
   - jekyll-redirect-from
   - jekyll-paginate
+  - jekyll-seo-tag
 
 prose:
   siteurl: https://www.nordouvert.ca/
