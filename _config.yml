@@ -32,7 +32,7 @@ defaults:
       path: ""
     values:
       layout: "default"
-      image: https://www.nordouvert.ca/theme/img/open-north-logo-header-black-fr.png
+      image: https://www.nordouvert.ca/theme/img/favicon/site-icon-152x152.png
   - scope:
       path: "collections"
       type: "impacts"
