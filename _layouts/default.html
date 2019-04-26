@@ -4,11 +4,10 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <title>{{ page.title | strip_html }}</title>
+  <title>{{ page.title | strip_html }} | Nord Ouvert</title>
   <meta name="description" content="Open North creates websites to promote government transparency and public participation.">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="shortcut icon" href="{{ site.baseurl }}/theme/img/favicon/favicon.ico">
-
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.1/css/foundation.min.css">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Fira+Sans:300,500,300italic,500italic">
@@ -20,7 +19,6 @@
   <script src="/theme/js/vendor/unslider.min.js"></script>
   <script src="/theme/js/scripts.js"></script>
   <script src="/theme/js/vendor/jquery.dialogOptions.js"></script>
-
   <style>
   .fr {
     font-weight: 450;
@@ -36,7 +34,7 @@
     margin-bottom: 2.5em;
   }
   </style>
-
+  {% if collection == posts %}<meta property="og:image" content="/theme/img/blog/{{ page.image }}" />{% endif %}
   {% seo %}
 </head>
 <body id="{{ site.language }}">
@@ -49,7 +47,6 @@
       </h1>
       <div class="b-main-menu-container">
         {% include navigation.html %}
-        <!--nav class="b-main-menu-list"-->
       </div>
     </div>
   </header>
