@@ -53,6 +53,7 @@ plugins:
 
 prose:
   siteurl: https://www.nordouvert.ca/
+  media: "theme/img/"
   metadata:
     collections/_impacts:
       - name: title
@@ -167,10 +168,12 @@ prose:
           placeholder: "Choose categories"
           help: Enter relevent categories from OpenNorth's post categories. If a relevant category does not already exist, please suggest it.
           options:
-            - name: Newsletter
-              value: 'newsletter'
-            - name: Press Release
-              value: 'press release'
+            - name: Infolettre
+              value: 'infolettre'
+            - name: Communiqué de presse
+              value: 'communiqué de presse'
+            - name: Laboratoire de recherche appliquée
+              value: 'laboratoire de recherche appliquee'
     collections/_publications:
       - name: title
         field:
