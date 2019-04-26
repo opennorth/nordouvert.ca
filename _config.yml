@@ -1,4 +1,6 @@
 title: Nord Ouvert
+description: Nous misons sur une approche collaborative mise en œuvre à l’échelle locale et mondiale pour améliorer les villes intelligentes grâce à la recherche empirique appliquée aux problèmes urbains.
+url: nordouvert.ca
 logo: /theme/img/open-north-logo-header-black-fr.png
 language: fr
 baseurl:
@@ -10,7 +12,10 @@ social:
     - https://www.facebook.com/OpenNorth.NordOuvert
     - https://www.linkedin.com/company/open-north/
     - https://github.com/opennorth/
-
+twitter:
+  username: opennorth
+  card: summary
+lang: fr_CA
 paginate: 20
 paginate_path: "/blog/page:num/"
 include: ["_pages"]
