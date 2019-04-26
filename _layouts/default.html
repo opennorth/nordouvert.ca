@@ -34,8 +34,8 @@
     margin-bottom: 2.5em;
   }
   </style>
-  {% if collection == posts and page.image contains "http" %}<!-- -->{% elsif page.image != null %}<meta property="og:image" content="{{ site.url }}/theme/img/blog/{{ page.image | strip }}" />{% endif %}
   {% seo %}
+  {% if collection == posts and page.image contains "http" %}<!-- -->{% elsif page.image != null %}<meta property="og:image" content="{{ site.url }}/theme/img/blog/{{ page.image | strip }}" />{% endif %}
 </head>
 <body id="{{ site.language }}">
 
