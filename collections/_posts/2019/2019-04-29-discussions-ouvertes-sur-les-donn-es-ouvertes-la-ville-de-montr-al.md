@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: Discussions ouvertes sur les données ouvertes à la Ville de Montréal
 author: Miranda Sculthorp
