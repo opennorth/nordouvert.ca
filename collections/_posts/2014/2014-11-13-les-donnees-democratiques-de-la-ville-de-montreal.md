@@ -1,8 +1,12 @@
 ---
+published: true
 layout: post
-title: "Les données démocratiques de la Ville de Montréal : un exemple de rétroaction à suivre"
+title: >-
+  Les données démocratiques de la Ville de Montréal : un exemple de rétroaction
+  à suivre
 author: Jean-Noé Landry
-date: 2014-11-13 11:02:25
+date: {}
+image: 2019-04-07-montreal-downtown-buildings.jpg
 ---
 
 Il y a un certain temps, la communauté des données ouvertes montréalaise s’était mobilisée pour demander à M. Chitilian (à l’époque Président du conseil et aujourd'hui vice-président du conseil exécutif et responsable de la Ville intelligente ainsi que des technologies de l'information) d’obtenir et d’ajouter les données relatives aux élus de la Ville sur le portail des données ouvertes de la Ville. 
@@ -21,4 +25,4 @@ Aujourd’hui, il suffit de parcourir le portail des données ouvertes pour cons
  
 De plus, une fois rendus publics dans un format ouvert, ces ensembles de données ont été l’objet d’un processus de rétroaction avec la communauté des données ouvertes qui signalait des erreurs pour améliorer leur qualité.
 
-Depuis l’élection du Maire Coderre, la Ville s’est dotée d’un nouveau [Bureau de la ville intelligente et numérique](http://villeintelligente.montreal.ca/), qui est maintenant saisi du dossier des données ouvertes.  Nous espérons que cette expérience lui servira d’exemple de collaboration avec la communauté montréalaise des données ouvertes. 
+Depuis l’élection du Maire Coderre, la Ville s’est dotée d’un nouveau [Bureau de la ville intelligente et numérique](http://villeintelligente.montreal.ca/), qui est maintenant saisi du dossier des données ouvertes.  Nous espérons que cette expérience lui servira d’exemple de collaboration avec la communauté montréalaise des données ouvertes.
