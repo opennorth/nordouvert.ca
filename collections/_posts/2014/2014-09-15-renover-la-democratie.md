@@ -1,8 +1,10 @@
 ---
+published: true
 layout: post
-title: "Rénover la démocratie, une idée à la fois"
-author: "Stéphane Guidoin"
-date: 2014-09-15 15:26:49
+title: 'Rénover la démocratie, une idée à la fois'
+author: Stéphane Guidoin
+date: {}
+image: 2019-04-07-room-ideas.jpg
 ---
 
 En cette [journée de la démocratie](http://www.un.org/fr/events/democracyday/), nous souhaitons apporter notre pierre à l’édifice. Bien des personnes dans les pays démocratiques voient cette journée organisée par les Nations Unies comme s’adressant uniquement aux “autres”. Pourtant nombreux sont ceux qui s’accordent à dire que bien des pays souffrent d’une forme de fatigue démocratique se traduisant notamment par une baisse des taux de participation électorale et une propension au vote protestataire amenant à l’élection d’extrémistes de tout acabit.
