@@ -1,8 +1,12 @@
 ---
+published: true
 layout: post
-title: "Changement de direction à Nord Ouvert"
+title: Changement de direction à Nord Ouvert
 author: James McKinney
-description: "Le billet d’adieu de l’ancien directeur général de Nord Ouvert, James McKinney."
+description: >-
+  Le billet d’adieu de l’ancien directeur général de Nord Ouvert, James
+  McKinney.
+image: 2019-05-03-last-puzzle-piece.jpg
 ---
 Après avoir fait passé Nord Ouvert d’une simple idée à une organisation en bonne et due forme au cours des quatre dernières années, j’ai quitté plus tôt ce mois-ci le rôle de directeur exécutif.
 
