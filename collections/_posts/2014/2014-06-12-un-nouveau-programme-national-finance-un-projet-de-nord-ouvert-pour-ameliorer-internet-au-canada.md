@@ -1,8 +1,12 @@
 ---
+published: true
 layout: post
-title: "Un nouveau programme national finance Nord Ouvert pour améliorer internet au Canada"
+title: >-
+  Un nouveau programme national finance Nord Ouvert pour améliorer internet au
+  Canada
 author: Jean-Noé Landry
-date: 2014-06-12 00:38:54
+date: {}
+image: 2019-04-07-network-background.jpg
 ---
 Montréal, Québec – Nord Ouvert a reçu 25 000$ de l’Autorité canadienne pour les enregistrements internet (ACEI) pour maintenir [la plus grande base de données](https://represent.opennorth.ca/) des frontières électorales et des représentants élus à tous les niveaux de gouvernement, une API utilisée par les organismes sans but lucratif, les entreprises, les journalistes et les individus pour faire le lien entre citoyens et élus. 
 
