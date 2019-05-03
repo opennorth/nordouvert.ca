@@ -1,9 +1,11 @@
 ---
 published: true
 layout: post
-title: "Bulletin d'information Hiver 2015"
+title: Bulletin d'information Hiver 2015
 author: Nord Ouvert
-categories: [infolettre]
+categories:
+  - infolettre
+image: 2019-04-07-winter-park.jpg
 ---
 
 
