@@ -5,7 +5,8 @@ title: >-
   Vitesse, opacité et externalisation : les trois défis des villes inclusives,
   ouvertes et intelligentes
 author: Jean-Noé Landry et Suthee Sangiambut
-description: "Les villes intelligentes augmentent-elles la rapidité et l'opacité du processus décisionnel gouvernemental, alors que le contrôle des outils et des processus demeure externe au gouvernement? Cet article examine trois facteurs problématiques : la rapidité, l’opacité et l’externalisation."
+description: "Les villes intelligentes augmentent-elles la rapidité et l'opacité du processus décisionnel gouvernemental, alors que le contrôle des outils et des processus demeure externe au gouvernement? Cet article examine trois facteurs problématiques\_: la rapidité, l’opacité et l’externalisation."
+image: 2019-04-07-street-movement-lights.jpg
 ---
 
 Avec plus de 50 % de la population vivant maintenant en [milieu urbain](http://www.un.org/en/development/desa/publications/2014-revision-world-urbanization-prospects.html), il n’est pas étonnant que nous soyons continuellement en train de remodeler et de réinventer nos villes. Être une grande métropole n’est plus suffisant. Les villes doivent être des entités brillantes, connectées et conscientes d’elles-mêmes ; elles doivent être intelligentes.
