@@ -5,7 +5,6 @@ title: >-
   Les données démocratiques de la Ville de Montréal : un exemple de rétroaction
   à suivre
 author: Jean-Noé Landry
-date: {}
 image: 2019-04-07-montreal-downtown-buildings.jpg
 ---
 
