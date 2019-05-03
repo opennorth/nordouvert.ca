@@ -1,8 +1,10 @@
 ---
+published: true
 layout: post
-title: "OFFRE D'EMPLOI: Directeur, Initiatives Stratégiques (temps plein, télétravail)"
+title: 'OFFRE D''EMPLOI: Directeur, Initiatives Stratégiques (temps plein, télétravail)'
 author: James McKinney
-date: 2014-04-30 08:22:38
+date: {}
+image: 2019-05-03-mac-book.jpg
 ---
 **Date limite:** 10 mai 2014 
 
