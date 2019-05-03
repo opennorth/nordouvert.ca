@@ -3,7 +3,6 @@ published: true
 layout: post
 title: 'Rénover la démocratie, une idée à la fois'
 author: Stéphane Guidoin
-date: {}
 image: 2019-04-07-room-ideas.jpg
 ---
 
@@ -39,11 +38,11 @@ En revanche, les [consultations budgétaires en ligne](http://budgetcitoyen.com)
 
 Quoiqu’il en soit, là où le bas blesse, c’est dans le suivi et la manière dont les élus se (dé)responsabilisent par rapport aux réponses obtenues:
 
-- Trop souvent, les résultats ne sont pas publiés ou alors en catimini. 
+- Trop souvent, les résultats ne sont pas publiés ou alors en catimini.
 - Généralement les élus n’expliquent pas si (et comment) la consultation a fait évoluer leur démarche.
 - Enfin, dans la majorité des cas, des travaux thématiques d’approfondissement devraient avoir lieu… et n’arrivent jamais.
 
-Étant donné les contraintes présentées précédemment, il semble difficile qu’une consultation en ligne permette à elle-seule d’arriver à un processus de prise de décision satisfaisant. Dans le cadre d’une approche divergente, il est inévitable de suivre avec des travaux visant la convergence. Si le sujet se prête à une approche convergente, comme les consultations budgétaires, il n’en restera pas moins que certains sujets demeureront antagonisés. 
+Étant donné les contraintes présentées précédemment, il semble difficile qu’une consultation en ligne permette à elle-seule d’arriver à un processus de prise de décision satisfaisant. Dans le cadre d’une approche divergente, il est inévitable de suivre avec des travaux visant la convergence. Si le sujet se prête à une approche convergente, comme les consultations budgétaires, il n’en restera pas moins que certains sujets demeureront antagonisés.
 
 La consultation a au moins permis de séparer les sujets relativement consensuels des questions plus difficiles. Le suivi, plus souvent réalisé selon des approches plus classiques, doit permettre de traiter ces dernières.
 
