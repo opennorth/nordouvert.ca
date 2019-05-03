@@ -1,9 +1,11 @@
 ---
 published: true
 layout: post
-title: "Bulletin d’information : printemps 2016"
+title: 'Bulletin d’information : printemps 2016'
 author: Nord Ouvert
-categories: [infolettre]
+categories:
+  - infolettre
+image: 2019-04-07-book-and-computer.jpg
 ---
 
 
