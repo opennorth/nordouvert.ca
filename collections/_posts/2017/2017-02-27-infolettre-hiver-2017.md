@@ -3,7 +3,9 @@ published: true
 layout: post
 title: 'Infolettre: hiver 2017'
 author: Nord Ouvert
-categories: [ 'infolettre' ]
+categories:
+  - infolettre
+image: 2019-04-07-montreal-at-night.jpg
 ---
 Jetez un œil à ce qui nous a tenus occupés dans la dernière année et à
 nos nouveaux projets pour 2017...
