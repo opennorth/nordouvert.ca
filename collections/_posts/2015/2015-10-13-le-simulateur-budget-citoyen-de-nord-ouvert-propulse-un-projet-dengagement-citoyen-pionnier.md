@@ -1,9 +1,12 @@
 ---
 published: true
 layout: post
-title: "Le simulateur Budget Citoyen de Nord Ouvert propulse un projet d'engagement citoyen pionnier"
+title: >-
+  Le simulateur Budget Citoyen de Nord Ouvert propulse un projet d'engagement
+  citoyen pionnier
 author: David Brake
-description: "Les citoyens de Saint-Basile-le-Grand sont appelés à voter cette semaine — non pas pour élire des représentants, mais plutôt pour choisir lequel des 11 projets présentés sera mis sur pied par le conseil municipal. Il s’agit d’un exercice radical de démocratie directe. Cette municipalité est la première au Québec à permettre aux citoyens de suggérer des projets et de voter directement pour déterminer lequel sera financé."
+description: "Les citoyens de Saint-Basile-le-Grand sont appelés à voter cette semaine — non pas pour élire des représentants, mais plutôt pour choisir lequel des 11\_projets présentés sera mis sur pied par le conseil municipal. Il s’agit d’un exercice radical de démocratie directe. Cette municipalité est la première au Québec à permettre aux citoyens de suggérer des projets et de voter directement pour déterminer lequel sera financé."
+image: 2019-05-03-budget-citoyen.JPG
 ---
 
 
