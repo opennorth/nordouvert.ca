@@ -1,7 +1,8 @@
 ---
 title: Projet du Bureau du Conseil privé (BCP)
-featured: false
-link: https://github.com/canada-ca/content-analysis
+link: 'https://github.com/canada-ca/content-analysis'
+published: true
+image: 2019-05-03-pco-screenshot.png
 ---
 Nous avons examiné la question suivante pour le BCP : Comment pouvons-nous rendre les données qualitatives des consultations plus réutilisables pour le gouvernement fédéral? Le but était d’examiner les variations dans la structure des données qualitatives de consultation et leur potentiel d’utilisation dans des outils d’analyse. Notre examen a porté sur quatre jeux de données de consultation provenant du <a href="https://open.canada.ca/fr" target="_blank">portail des données ouvertes</a> du gouvernement du Canada (et d’un jeu de données de consultation interne) et a créé un prototype de flux de travail pour traiter et analyser les données qualitatives de la consultation.
 
