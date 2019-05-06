@@ -6,7 +6,7 @@ title: >-
   citoyen pionnier
 author: David Brake
 description: "Les citoyens de Saint-Basile-le-Grand sont appelés à voter cette semaine — non pas pour élire des représentants, mais plutôt pour choisir lequel des 11\_projets présentés sera mis sur pied par le conseil municipal. Il s’agit d’un exercice radical de démocratie directe. Cette municipalité est la première au Québec à permettre aux citoyens de suggérer des projets et de voter directement pour déterminer lequel sera financé."
-image: 2019-05-03-budget-citoyen.JPG
+image: 2019-05-03-citizen-budget-full-screenshot-fr.png
 ---
 
 
