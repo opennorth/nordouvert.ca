@@ -3,10 +3,9 @@ published: true
 layout: post
 title: 'OFFRE D''EMPLOI: Directeur, Initiatives Stratégiques (temps plein, télétravail)'
 author: James McKinney
-date: {}
 image: 2019-05-03-mac-book.jpg
 ---
-**Date limite:** 10 mai 2014 
+**Date limite:** 10 mai 2014
 
 Êtes-vous passionné par l’amélioration de la participation des citoyens à la démocratie canadienne à travers la technologie? Nord Ouvert est à la recherche d’un **Directeur en Initiatives Stratégiques** qui travaillera en collaboration avec l’équipe pour:
 
