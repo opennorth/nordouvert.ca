@@ -3,7 +3,7 @@ published: true
 layout: post
 title: Communiqués de presse - Budget Citoyen
 categories:
-  - press release
+  - 'communiqué de presse'
 author: NordOuvert
 ---
 ## Communiqués de presse
