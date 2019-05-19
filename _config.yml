@@ -3,8 +3,10 @@ description: Nous misons sur une approche collaborative mise en œuvre à l’é
 url: https://www.nordouvert.ca
 logo: https://www.nordouvert.ca/theme/img/open-north-logo-header-black-fr.png
 language: fr
+lang: fr_CA
 baseurl:
 permalink: /:year/:month/:day/:title
+
 social:
   name: Open North
   links:
@@ -15,7 +17,7 @@ social:
 twitter:
   username: opennorth
   card: summary
-lang: fr_CA
+
 paginate: 20
 paginate_path: "/blog/page:num/"
 include: ["_pages"]
@@ -26,6 +28,15 @@ collections:
     output: true
   publications:
   webinars:
+
+sass:
+  style: :compressed
+  sass_dir: theme/_sass
+
+plugins:
+  - jekyll-redirect-from
+  - jekyll-paginate
+  - jekyll-seo-tag
 
 defaults:
   - scope:
@@ -48,15 +59,6 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-
-sass:
-  style: :compressed
-  sass_dir: theme/_sass
-
-plugins:
-  - jekyll-redirect-from
-  - jekyll-paginate
-  - jekyll-seo-tag
 
 prose:
   siteurl: https://www.nordouvert.ca/
@@ -180,6 +182,13 @@ prose:
               value: 'communiqué de presse'
             - name: Laboratoire de recherche appliquée
               value: 'laboratoire de recherche appliquee'
+      - name: description
+        field:
+          element: textarea
+          label: Description
+          placeholder: Brief description of the post
+          help: The description is displayed in lists of posts, like on the Blog page.
+          value: ""
     collections/_publications:
       - name: title
         field:
