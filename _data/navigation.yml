@@ -2,9 +2,9 @@
   link: /a-propos
   children:
     #- childname: Laboratoire de recherche appliquée
-    #  childlink: /laboratoire-recherche-appliquée
-    #- childname: One-to-One Advisory Service
-    #  childlink: /one-to-one-advisory-service
+    #  childlink: /laboratoire-recherche-appliquee
+    #- childname: Service de consultation personnalisé
+    #  childlink: /service-de-consultation-personnalise
     - childname: Notre équipe
       childlink: /a-propos#equipe
 - name: Expertise
