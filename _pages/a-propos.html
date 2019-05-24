@@ -40,7 +40,7 @@ permalink: /a-propos/
       <p class="text-center">Notre équipe dynamique est composée de professionnels d’expérience possédant une expertise spécialisée dans plusieurs domaines : la planification gouvernementale, stratégique et opérationnelle, l’accès à l’information, les technologies de l’information, le secteur privé, la création de normes sur les données, le développement international en recherche appliquée, l’élaboration de politiques et le développement de logiciels.</p>
     </div>
 
-    {% for person in site.data.staff %}
+    {% for person in site.data.people.staff %}
     <div class="medium-4 small-6 columns{% if forloop.last %} end{% endif %}">
       <div class="b-card m-team">
         <div class="e-card-picture" style="background-image: url('{{ site.baseurl }}/theme/img/people/{{ person.name | slugify }}.jpg')">
@@ -93,7 +93,7 @@ permalink: /a-propos/
      <h2 class="e-section-title">Le conseil d’administration et le fondateur</h2>
    </div>
 
-   {% for person in site.data.board %}
+   {% for person in site.data.people.board %}
    <div class="medium-4 small-6 columns{% if forloop.last %} end{% endif %}">
      <div class="b-card m-team">
        <div class="e-card-picture" style="background-image: url('{{ site.baseurl }}/theme/img/people/{{ person.name | slugify }}.jpg')">
