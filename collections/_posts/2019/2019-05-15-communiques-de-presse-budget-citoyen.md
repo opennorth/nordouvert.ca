@@ -3,8 +3,9 @@ published: true
 layout: post
 title: Communiqués de presse - Budget Citoyen
 categories:
-  - 'communiqué de presse'
+  - communiqué de presse
 author: NordOuvert
+image: 2019-05-03-citizen-budget-full-screenshot-fr.png
 ---
 ## Communiqués de presse
 
