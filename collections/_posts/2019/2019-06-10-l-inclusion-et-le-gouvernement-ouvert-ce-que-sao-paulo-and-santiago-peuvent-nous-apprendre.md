@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: >-
   L’inclusion et le gouvernement ouvert : ce que São Paulo and Santiago peuvent nous apprendre
