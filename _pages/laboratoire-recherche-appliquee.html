@@ -7,15 +7,22 @@ permalink: /laboratoire-recherche-appliquee/
 	<div class="row">
 		<div class="column">
 			<h2 class="e-page-title">Laboratoire de recherche appliquée</h2>
-			<p class="text-center">Intro paragraph here</p>
+			<p class="text-center">La recherche appliquée à Nord Ouvert, c’est l’application de méthodes des sciences sociales pour étudier les problèmes auxquels sont confrontées les institutions publiques. Le travail du Laboratoire de recherche appliquée de Nord Ouvert consiste entre autres à synthétiser et mobiliser les connaissances et la théorie par des recherches fondées sur des données pratiques et des questions de gouvernance.</p>
 		</div>
 	</div>
 </section><!-- /.b-title-section -->
 
 <section class="b-content-section">
 	<div class="row">
-		<div class-"column">
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur lobortis nisi eget dui fringilla, finibus mollis purus varius. Aliquam at massa lacus. Nam in viverra dolor. Phasellus vel rutrum neque. Suspendisse pulvinar augue id orci pulvinar, sed mattis nunc vulputate. Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris consectetur nec tortor nec placerat. Morbi sed metus tristique tellus fermentum luctus iaculis in dui. Etiam sed urna eu lacus semper efficitur pulvinar quis ligula.</p>
+		<div class="column">
+			<h3>Qu’est-ce que la recherche appliquée?</h3>
+			<p>À Nord Ouvert, notre travail exige que nous examinions les méthodes utilisées par les gouvernements de l’échelle locale à l’échelle mondiale pour structurer les données publiques et favoriser la création d’écosystèmes de données. La recherche appliquée consiste à mettre à l’essai les théories et les méthodes existantes auprès d’institutions publiques afin de pouvoir fournir des conseils pratiques et produire des résultats.</p>
+			<P>La création du Laboratoire de recherche appliquée reflète la priorité que Nord Ouvert donne à la recherche, et donc à l’élaboration de données probantes pour appuyer et éclairer le travail organisationnel des administrations à toutes les échelles gouvernementales. Les situations concrètes que vivent les gouvernements et les citoyens du monde entier sont à la base de nos recherches.</P>
+			<h3>Le Laboratoire de recherche appliquée de Nord Ouvert</h3>
+			<p>Les projets de Nord Ouvert comportent tous une composante recherche. Cette dernière oriente notre travail consistant à aider les institutions gouvernementales et publiques à acquérir les compétences nécessaires pour améliorer leur capacité à collecter, gérer et analyser les données. Le Laboratoire de recherche appliquée utilise des méthodes de recherches empiriques diverses pour renforcer les capacités des gouvernements, des organismes sans but lucratif et d’autres institutions à travailler avec de nouvelles formes de données géospatiales ouvertes.</p>
+			<p>Notre équipe interdisciplinaire est expérimentée en urbanisme, développement international, économie et géographie humaine. Nous pouvons ainsi appliquer divers angles d’analyse pour générer des résultats concrets importants pour les institutions publiques. Nous travaillons en partenariat avec des organisations internationales afin de rendre notre expérience et notre expertise locales pertinentes et de favoriser le transfert des connaissances à notre collectivité. Ce faisant, nous contribuons à la création de réseaux de connaissances fondés sur la recherche à diverses échelles.</p>
+			<p>La recherche appliquée est un pilier fondamental des projets de Nord Ouvert. Elle priorise l’obtention de résultats pratiques pour les problèmes auxquels sont confrontées les institutions et les collectivités en facilitant la collecte de données, en faisant tomber les barrières entre les silos organisationnels et en structurant la collaboration multipartite sur les données. Le Laboratoire de recherche appliquée aide l’organisation à travailler dans différents contextes internationaux en élaborant des programmes de capacité adaptés qui engagent les intervenants nationaux et locaux qui connaissent des changements organisationnels.</p>
+			<p>Pour atteindre tous ses objectifs, le Laboratoire utilise des méthodes quantitatives et qualitatives pour améliorer l’engagement et la gestion, la gouvernance et l’interopérabilité des données. Le Laboratoire de recherche appliquée offre toute une gamme de services et de produits qui améliore la gouvernance et la participation civique. Des partenaires du monde entier, à l’échelle locale, régionale et nationale, profitent de notre expérience avec les résultats empiriques pour améliorer la capacité des gouvernements à adopter l’innovation, les données et les technologies connexes.</p>
 		</div>
 		<hr>
 	</div>
@@ -29,7 +36,7 @@ permalink: /laboratoire-recherche-appliquee/
       <!--p class="text-center">Optional team intro text here.</p-->
     </div><!-- .column -->
 
-		{% include team-unit.html people="staff" unit="laboratoire de recherche appliquee" %}
+		{% include team-unit.html people="staff" unit="applied research lab" %}
 
 	</div><!-- .row -->
 	<!-- remove this comment to show research collaborators section
@@ -39,7 +46,7 @@ permalink: /laboratoire-recherche-appliquee/
 			<p class="text-center">Optional team intro text here.</p>
 		</div>
 
-		{% include team-unit.html people="research-collaborators" unit="laboratoire de recherche appliquee" %}
+		{% include team-unit.html people="research-collaborators" unit="applied research lab" %}
 
 	</div> end of comment -->
 </section>
@@ -49,14 +56,13 @@ permalink: /laboratoire-recherche-appliquee/
 	<section class="b-content-section b-blog featured-list">
 		<div class="row">
 			<div class="column">
-				<h2 class="e-section-title">Related News</h2>
+				<h2 class="e-section-title">Recent Posts</h2>
 			</div>
 		</div>
 
 		<div class="row">
 			<div>
-
-				{% assign posts = site.posts | where: "categories", "laboratoire de recherche appliquee" %}
+				{% assign posts = site.posts | where: "categories", "applied research lab" %}
 				{% for post in posts limit:5 %}
 
 					{% include blog-list-article.html %}
@@ -64,7 +70,7 @@ permalink: /laboratoire-recherche-appliquee/
 				{% endfor %}
 
 				<nav>
-					<p class="navigation"><a href="/blog">View all news</a></p>
+					<p class="navigation"><a href="/blog">Read more posts from Open North</a></p>
 				</nav>
 			</div>
 		</div><!--.row-->
