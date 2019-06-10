@@ -1,10 +1,10 @@
 - name: À propos
   link: /a-propos
   children:
-    #- childname: Laboratoire de recherche appliquée
-    #  childlink: /laboratoire-recherche-appliquee
-    #- childname: Service de consultation personnalisé
-    #  childlink: /service-de-consultation-personnalise
+    - childname: Laboratoire de recherche appliquée
+      childlink: /laboratoire-recherche-appliquee
+    - childname: Service de consultation personnalisé
+      childlink: /service-de-consultation-personnalise
     - childname: Notre équipe
       childlink: /a-propos#equipe
 - name: Expertise
