@@ -1,9 +1,7 @@
 ---
 published: true
 layout: post
-title: >-
-  Quelques réflexions sur le Sommet mondial du Partenariat pour un gouvernement ouvert 
-Parlons littéracie. 
+title: 'Quelques réflexions sur le Sommet mondial du Partenariat pour un gouvernement ouvert: Parlons littéracie.' 
 author: Hannah Ker
 image: 2019-06-07-ogp-view.JPG
 categories:
