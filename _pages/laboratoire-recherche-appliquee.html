@@ -32,11 +32,11 @@ permalink: /laboratoire-recherche-appliquee/
 <section class="b-content-section b-people team-unit">
   <div class="row">
     <div class="column">
-      <h2 class="e-section-title">Applied Research Lab Team</h2>
+      <h2 class="e-section-title">L'Équipe</h2>
       <!--p class="text-center">Optional team intro text here.</p-->
     </div><!-- .column -->
 
-		{% include team-unit.html people="staff" unit="applied research lab" %}
+		{% include team-unit.html people="staff" unit="laboratoire de recherche appliquee" %}
 
 	</div><!-- .row -->
 	<!-- remove this comment to show research collaborators section
@@ -62,7 +62,7 @@ permalink: /laboratoire-recherche-appliquee/
 
 		<div class="row">
 			<div>
-				{% assign posts = site.posts | where: "categories", "applied research lab" %}
+				{% assign posts = site.posts | where: "categories", "laboratoire de recherche appliquee" %}
 				{% for post in posts limit:5 %}
 
 					{% include blog-list-article.html %}
