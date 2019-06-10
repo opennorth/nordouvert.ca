@@ -5,7 +5,7 @@ title: 'Quelques réflexions sur le Sommet mondial du Partenariat pour un gouver
 author: Hannah Ker
 image: 2019-06-07-ogp-view.JPG
 categories:
-  - applied research lab
+  - 'laboratoire de recherche appliquee'
 description: >-
   Au fur et à mesure que le gouvernement adoptera davantage de solutions technologiques, les efforts visant à promouvoir la littéracie médiatique, numérique et des données constitueront un élément important de son ouverture. 
 ---

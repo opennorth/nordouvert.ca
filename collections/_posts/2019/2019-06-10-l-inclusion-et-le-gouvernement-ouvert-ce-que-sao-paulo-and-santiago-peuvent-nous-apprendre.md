@@ -6,7 +6,7 @@ title: >-
 author: Miranda Sculthorp
 image: 2019-06-07-OGP-summit-local-side-event.jpg
 categories:
-  - applied research lab
+  - 'laboratoire de recherche appliquee'
 description: Réflexions de l'événement parallèle du Sommet PGO 2019.
 ---
 

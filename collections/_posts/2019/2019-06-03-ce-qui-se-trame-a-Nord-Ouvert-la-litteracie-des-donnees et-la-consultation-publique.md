@@ -3,7 +3,7 @@ published: true
 layout: post
 title: 'Ce qui se trame à Nord Ouvert : la littéracie des données et la consultation publique  '
 categories:
-  - applied research lab
+  - 'laboratoire de recherche appliquee'
 image: 2019-06-03-data-computer.jpg
 author: Hannah Ker
 description: >-
