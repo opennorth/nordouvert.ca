@@ -9,7 +9,7 @@ categories:
   - 'laboratoire de recherche appliquee'
 description: Réflexions de l'événement parallèle du Sommet PGO 2019.
 ---
-
+_Cet article est le deuxième d’une série sur « ce qui a été dit » du [Laboratoire de recherche appliquée](https://www.opennorth.ca/applied-research-lab/) avec des réflexions sur le Sommet 2019 du Partenariat pour un gouvernement ouvert._
 ## Donner un sens à l’inclusion
 
 Les participants au Sommet 2019 du Partenariat pour un gouvernement ouvert (PGO) ont profité de la plateforme qui leur était donnée pour partager leurs projets locaux pour un gouvernement ouvert. Tout au long de la semaine, nous avons écouté des conférenciers et conférences de tous les milieux, tout autant des dirigeants et dirigeantes municipaux que des militants et militantes. Nous avons même entendu l’histoire d’une famille qui a mis sur pied un projet permettant de visualiser les dépenses budgétaires de son pays. De toute évidence, tout le monde peut participer au gouvernement ouvert. Et c’est un sujet (et une question) qui s’est avéré très populaire pendant le Sommet.  
