@@ -42,6 +42,13 @@
     <p>Service de consultation personnalisé</p>
   linkedin: https://www.linkedin.com/in/oscarespinosa25/
   unit: ['service de consultation personnalise']
+- name: Michaël Houle
+  role: |
+    <p>Gestionnaire de programme</p>
+    <p>Service de consultation personnalisé</p>
+  linkedin: https://www.linkedin.com/in/micha%C3%ABl-houle-b3984253/
+  unit: ['one to one']
+  bio: ""
 - name: Moana Lebel
   role: |
     <p>Chef de projet</p>
