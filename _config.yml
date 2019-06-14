@@ -176,7 +176,7 @@ prose:
           element: checkbox
           label: Hide image
           help: Select this option to hide the image in the main content of the post. The image will only be displayed when the post is included in lists, like on the Blog page.
-          value: true
+          value: false
       - name: categories
         field:
           element: multiselect
