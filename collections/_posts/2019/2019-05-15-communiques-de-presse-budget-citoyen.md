@@ -6,7 +6,7 @@ categories:
   - communiqué de presse
 author: NordOuvert
 image: 2019-05-03-citizen-budget-full-screenshot-fr.png
-image_hidden: true
+show_image: false
 ---
 ## Communiqués de presse
 
