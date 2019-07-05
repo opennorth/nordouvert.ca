@@ -47,10 +47,10 @@ permalink: /a-propos/
       <div class="b-card m-team">
         <div class="e-card-picture" style="background-image: url('{{ site.baseurl }}/theme/img/people/{{ person.name | slugify }}.jpg')">
           {% if person.linkedin %}
-          <a class="b-social-media" href="{{ person.linkedin }}"><i class="fa fa-lg fa-linkedin"></i></a>
+          <a class="b-social-media" href="{{ person.linkedin }}"><i class="fab fa-linkedin-in"></i></a>
           {% endif %}
           {% if person.url %}
-          <a class="b-social-media" href="{{ person.url }}"><i class="fa fa-lg fa-link"></i></a>
+          <a class="b-social-media" href="{{ person.url }}"><i class="fas fa-link"></i></a>
           {% endif %}
         </div>
         <div class="e-card-content">
@@ -63,32 +63,6 @@ permalink: /a-propos/
   </div>
 </section>
 
-<!--section class="b-content-section b-people" id="advisors">
-  <div class="row">
-    <div class="column">
-      <h2 class="e-section-title">Conseillers</h2>
-
-    {% for person in site.data.advisors %}
-    <div class="medium-4 small-6 columns{% if forloop.last %} end{% endif %}">
-      <div class="b-card m-team">
-        <div class="e-card-picture" style="background-image: url('{{ site.baseurl }}/theme/img/people/{{ person.name | slugify }}.jpg')">
-          {% if person.linkedin %}
-          <a class="b-social-media" href="{{ person.linkedin }}"><i class="fa fa-lg fa-linkedin"></i></a>
-          {% endif %}
-          {% if person.url %}
-          <a class="b-social-media" href="{{ person.url }}"><i class="fa fa-lg fa-link"></i></a>
-          {% endif %}
-        </div>
-        <div class="e-card-content">
-          <h3>{{ person.name }}</h3>
-          <h4>{{ person.role | markdownify}}</h4>
-        </div>
-      </div>
-    </div>
-    {% endfor %}
-  </div>
-</section-->
-
 <section class="b-content-section b-people" id="board">
  <div class="row">
    <div class="column">
@@ -100,10 +74,10 @@ permalink: /a-propos/
      <div class="b-card m-team">
        <div class="e-card-picture" style="background-image: url('{{ site.baseurl }}/theme/img/people/{{ person.name | slugify }}.jpg')">
          {% if person.linkedin %}
-         <a class="b-social-media" href="{{ person.linkedin }}"><i class="fa fa-lg fa-linkedin"></i></a>
+         <a class="b-social-media" href="{{ person.linkedin }}"><i class="fab fa-linkedin-in"></i></a>
          {% endif %}
          {% if person.url %}
-         <a class="b-social-media" href="{{ person.url }}"><i class="fa fa-lg fa-link"></i></a>
+         <a class="b-social-media" href="{{ person.url }}"><i class="fas fa-link"></i></a>
          {% endif %}
        </div>
        <div class="e-card-content">
