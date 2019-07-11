@@ -7,7 +7,7 @@ image: 2019-07-11-front-obama-foundation-meeting-small.jpg
 categories:
   - infolettre
 author: ''
-description: ''
+description: 'Bonjour et bienvenu à cette nouvelle édition de notre bulletin d’information. Nous avons de grandes nouvelles pour vous !'
 ---
 _Le directeur général de Nord Ouvert, Jean-Noé Landry, a rencontré l’équipe de l’Obama Foundation et l’ancien président des États-Unis, Barack Obama lui-même, au Sommet mondial du Partenariat pour un gouvernement ouvert à Ottawa, en mai dernier._
 
