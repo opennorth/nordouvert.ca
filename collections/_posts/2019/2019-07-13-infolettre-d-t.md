@@ -2,7 +2,7 @@
 published: true
 layout: post
 show_image: true
-title: Infolettre d'été
+title: Infolettre d'été 2019
 categories:
   - infolettre
 image: 2019-07-11-front-obama-foundation-meeting-small.jpg
