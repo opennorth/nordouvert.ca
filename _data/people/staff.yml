@@ -3,25 +3,39 @@
   role: Directeur général
   linkedin: https://www.linkedin.com/in/jeannoelandry
 - name: Suthee Sangiambut
-  role: Gestionnaire de Recherche Appliquée
+  role: Gestionnaire de recherche appliquée
   linkedin: https://www.linkedin.com/in/suthee/
   unit: ['laboratoire de recherche appliquee']
 - name: Miranda Sculthorp
   role: |
-    <p>Analyste de Recherche Urbaine</p>
+    <p>Analyste de recherche senior</p>
     <p>Laboratoire de Recherche Appliquée</p>
   linkedin: https://www.linkedin.com/in/miranda-sculthorp-76883040/
   unit: ['laboratoire de recherche appliquee']
   bio: "En tant qu'Analyste de recherche urbaine au Laboratoire de recherche appliquée, Miranda travaille en étroite collaboration avec les municipalités pour accroître la transparence et l'engagement civique grâce à la création des politiques de données ouvertes et la planification des outils géospatiaux. Elle travaille également avec des réseaux communautaires locaux pour comprendre les problèmes urbains et elle soutient ces acteurs par le biais des initiatives en littératie de données et en mutualisation de données. Ses intérêts de recherche portent sur la sécurité alimentaire, l'accès au logement abordable ainsi que l'inclusion des femmes dans les espaces urbains. Miranda est titulaire d'une maîtrise en urbanisme de l'Université McGill. Elle détient également un Baccalauréat en sciences sociales en économie et français de l'Université d'Ottawa"
 - name: Hannah Ker
   role: |
-    <p>Analyste des Données Ouvertes</p>
+    <p>Analyste des données ouvertes</p>
     <p>Laboratoire de recherche appliquée</p>
   linkedin: https://ca.linkedin.com/in/hannah-ker-991007115
   unit: ['laboratoire de recherche appliquee']
   bio: "En tant qu'Analyste de données ouvertes pour le Laboratoire de recherche appliquée, Hannah travaille avec des gouvernements dans divers contextes pour améliorer la capacité de prise de décision fondée sur les données. À ce titre, elle a animé des ateliers, conçu des outils d'apprentissage en ligne et mis au point des processus automatisés pour l'analyse de données. Hannah est diplômée en Géographie urbaine de l'Université McGill. Son mémoire de recherche de premier cycle a porté sur les perceptions des paysages urbains de Montréal. Hannah est intéressée à explorer les façons dont les données peuvent être utilisées de façon responsable pour améliorer la prise de décision dans les villes."
+- name: Steven Coutts
+  role: |
+    <p>Analyste de recherche géographique</p>
+    <p>Laboratoire de recherche appliquée</p>
+  linkedin: https://www.linkedin.com/in/steve-coutts/
+  unit: ['laboratoire de recherche appliquee']
+  bio: "En tant qu'analyste de recherche géographique au Laboratoire de recherche appliquée, Steve travaille à l'harmonisation des politiques et des pratiques autour du traitement et de l'utilisation des données. Il a fait des recherches et publié des articles universitaires sur les transports urbains et les «villes intelligentes», et a participé à l'élaboration de politiques publiques sur les véhicules autonomes. Il s'intéresse au renforcement des capacités de gouvernance des données au sein de la société civile et des gouvernements dans le but de façonner un avenir numérique juste et équitable pour les communautés. Steve a obtenu une maîtrise en urbanisme de l'Université Ryerson (Toronto) et un baccalauréat ès arts (avec distinction) en géographie de l'Université de Winnipeg."
+- name: Megan Wylie
+  role: |
+    <p>Analyste de recherche géographique</p>
+    <p>Laboratoire de recherche appliquée</p>
+  linkedin: https://www.linkedin.com/in/megan-wylie-490a6863/
+  unit: ['laboratoire de recherche appliquee']
+  bio: "En tant qu'analyste de recherche géographique au Laboratoire de recherche appliquée, Megan travaille avec le gouvernement pour accroître sa capacité de gouvernance ouverte et transparente, en mettant l'accent sur les données spatiales, l'accessibilité des données et la participation des citoyens. Elle possède une formation interdisciplinaire en sciences sociales et environnementales et a mené des recherches pour évaluer les applications pratiques des données ouvertes, la distribution des polluants et les changements de revenu à long terme dans les quartiers, à l'aide de données de microrecensement. Elle a obtenu un baccalauréat en études environnementales à l'Université de Waterloo et a étudié la géographie économique et la géographie de la santé tout en terminant sa maîtrise ès arts à l'Université McGill."
 - name: Christian Medina
-  role: Gestionnaire de Programme
+  role: Gestionnaire de programme
   linkedin: https://www.linkedin.com/in/christian-medina-64266519/
 - name: Mélina Planchenault
   role: |
