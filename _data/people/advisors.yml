@@ -1,9 +1,56 @@
-- name: Example Name
-  role: Role Here
-  linkedin: https://linkedin.com/linked-in-profile
+- name: Nasma Ahmed
+  role: |
+    <p>Conseillère, Villes intelligentes ouvertes</p>
+    <p>[Gouvernance]</p>
+  linkedin: https://www.linkedin.com/in/nasma-ahmed-69698266
   unit: ['one to one']
-  bio: 'Example bio.'
-- name: Example Name
-  role: Role Here
-  url: http://example.com/not-linked-in
+  bio: "Nasma est directrice du Digital Justice Lab, dont la mission est de construire un avenir numérique plus juste et équitable. Elle a travaillée dans les secteurs de la fonction publique et des organismes sans but lucratif, tout en mettant l'accent sur le renforcement des capacités technologiques. En 2017, elle a été une Open Web Fellow avec Mozilla et Ford Foundation."
+- name: Ana Brandusescu
+  role: |
+    <p>Conseillère, Villes intelligentes ouvertes</p>
+    <p>[Matériels et logiciels]</p>
+  linkedin: https://www.linkedin.com/in/anabrandusescu/
   unit: ['one to one']
+  bio: "Ana Brandusescu est chercheuse, conseillère et facilitatrice qui travaille à une utilisation plus inclusive, responsable et stratégique des données et des politiques technologiques. Elle est l’auteur de nombreux articles de blog, de rapports, et de chapitres de livres portant sur les données ouvertes, de la mesure de données, l'intelligence artificielle, l'égalité des sexes, la cartographie des crises et le développement communautaire."
+- name: Pierre-Antoine Ferron
+  role: |
+    <p>Conseiller, Villes intelligentes ouvertes</p>
+    <p>[Gouvernance]</p>
+  linkedin: https://www.linkedin.com/in/pierre-antoine-ferron-0684767/
+  unit: ['one to one']
+  bio: "Pierre-Antoine Ferron a eu une carrière de 30 ans comme fonctionnaire à la Ville de Montréal où, depuis cinq ans, il coordone l'adoption de toutes les grandes politiques informatiques, publiques et internes, telles que leur stratégie de Ville Intelligente, la politique d'acquisition informatique et la politique de Données Ouvertes et Sources Libres."
+- name: Kit Malo
+  role: |
+    <p>Conseillère de Programme</p>
+    <p>[Communautés Autochtones]</p>
+  linkedin: https://www.linkedin.com/in/kitmalo/
+  unit: ['one to one']
+  bio: "Kit Malo est une consultante en organisation comptant plus de 20 ans d'expérience dans les secteurs communautaire et des organismes sans but lucratif et qui se concentre sur la décolonisation des milieux de travail dans le but d'apporter un meilleur équilibre et bien-être à la vie organisationnelle."
+- name: Geoff Zakaib
+  role: |
+    <p>Conseiller, Villes intelligentes ouvertes</p>
+    <p>[Parties prenantes & engagement citoyen]</p>
+  linkedin: https://www.linkedin.com/in/geoff-zakaib-p-eng-mba-b5447a2/
+  unit: ['one to one']
+  bio: "Geoff Zakaib est consultant en gestion de l’information et a participé a diverses initiatives visant « la technologie au service du bien » dans les secteurs public, privé, sans but lucratif et social. Il est le directeur de Data for Good, co-fondateur de CivicTechYYC, et directeur général de Open Calgary."
+- name: David Fewer
+  role: |
+    <p>Conseiller, Villes intelligentes ouvertes</p>
+    <p>[Gouvernance]</p>
+  url: https://commonlaw.uottawa.ca/en/people/fewer-david
+  unit: ['one to one']
+  bio: "David est avocat et se spécialise en propriété intellectuelle et technologie. Il possède plus de 20 ans d’expérience en technologie municipale. Il est également le conseiller juridique principal de la Clinique d’Intérêt Public et de Politique d’Internet du Canada Samuelson-Glushko de l’Université d’Ottawa (CIPPIC). Avant de se joindre à la CIPPIC, M. Fever a pratiqué le droit de la propriété intellectuelle et technologique au sein de plusieurs cabinets nationaux, basés en Colombie-Britannique et en Ontario."
+- name: Catherine Roy
+  role: |
+    <p>Conseillère, Villes intelligentes ouvertes</p>
+    <p>[Parties prenantes & engagement citoyen]</p>
+  linkedin: https://www.linkedin.com/in/catherine-roy514/
+  unit: ['one to one']
+  bio: "Catherine a travaillée pendant près de 20 ans sur l’accès et l’inclusion à la société du savoir et a participée à la coordination de projets et initiatives de recherche, à la présentation de conférences ainsi qu’à la rédaction de textes portant sur l’accès à l’information pour les personnes ayant un handicap. Elle a également fait partie de plusieurs comités et conseils d’administration d’organismes s’intéressant au fossé numérique existant dans les sociétés d’aujourd’hui."
+- name: Bianca Wylie
+  role: |
+    <p>Conseillère, Villes intelligentes ouvertes</p>
+    <p>[Parties prenantes & engagement citoyen]</p>
+  linkedin: https://www.linkedin.com/in/biancawylie
+  unit: ['one to one']
+  bio: "Bianca possède une double formation en technologie et engagement publique et, milite pour l'adoption de politiques et pratiques des gouvernements ouverts, par les gouvernements. Pendant plusieurs années, elle a travaillée dans le secteur technologique, plus particulièrement dans les opérations, l'infrastructure, la formation en entreprise et la gestion de produits. En tant que facilitatrice, elle a conçu, mis en œuvre et appuyée des processus de consultation publique pour divers gouvernements et organismes gouvernementaux."

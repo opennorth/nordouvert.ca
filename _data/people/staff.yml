@@ -68,6 +68,20 @@
     <p>Service de consultation personnalisé</p>
   linkedin: https://www.linkedin.com/in/nsahmed/
   unit: ['service de consultation personnalise']
+- name: Suzanne Labrie
+  role: |
+    <p>Conseillère de Programme Senior</p>
+    <p>[Technical]</p>
+  linkedin: https://www.linkedin.com/in/suzanne-l-3257513/
+  unit: ['one to one']
+  bio: ""
+- name: Johann Kwan
+  role: |
+    <p>Conseillère, Villes intelligentes ouvertes</p>
+    <p>[Gouvernance]</p>
+  linkedin: https://www.linkedin.com/in/johann-kwan-4b421648
+  unit: ['one to one']
+  bio: ""
 - name: Dione Watts
   role: Chef des opérations
 - name: Nancy Lazo
