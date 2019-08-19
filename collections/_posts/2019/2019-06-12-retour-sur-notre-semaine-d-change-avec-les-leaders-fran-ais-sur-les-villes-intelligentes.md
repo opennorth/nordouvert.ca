@@ -6,7 +6,7 @@ title: >-
   Retour sur notre semaine d’échange avec les leaders français sur les villes
   intelligentes
 author: Miranda Sculthorp
-image: 2019-06-12-civiteo-french-delegation.png
+image: 2019-08-19-civiteo-french-delegation.png
 categories:
   - laboratoire de recherche appliquee
 description: >-
