@@ -31,12 +31,6 @@
 - name: Christian Medina
   role: Gestionnaire de programme
   linkedin: https://www.linkedin.com/in/christian-medina-64266519/
-- name: Mélina Planchenault
-  role: |
-    <p>Directrice du programme</p>
-    <p>Service de consultation personnalisé</p>
-  linkedin: https://www.linkedin.com/in/m%C3%A9lina-planchenault-05096313/
-  unit: ['service de consultation personnalise']
 - name: Oscar Espinosa
   role: |
     <p>Gestionnaire de programme</p>
@@ -60,12 +54,6 @@
     <p>Analyste</p>
     <p>Service de consultation personnalisé</p>
   linkedin: https://www.linkedin.com/in/nsahmed/
-  unit: ['service de consultation personnalise']
-- name: Suzanne Labrie
-  role: |
-    <p>Conseillère de Programme Senior</p>
-    <p>[Technique]</p>
-  linkedin: https://www.linkedin.com/in/suzanne-l-3257513/
   unit: ['service de consultation personnalise']
 - name: Johann Kwan
   role: |
