@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 layout: post
 show_image: true
 title: >-
@@ -25,5 +25,4 @@ Une fois lancé, l'outil auto-diagnostic permettra aux organismes artistiques et
 _Ces outils amélioreront la capacité de Synapse C à comprendre les besoins des organismes œuvrant dans le secteur des arts et de la culture, et à rassembler et à faciliter les intervenants, dans le but de fournir des renseignements pertinents aux organismes du Québec, et éventuellement de tout le Canada._
 -- Viêt Cao, Gestionnaire et analyste principal, Synapse C 
 
-NordOuvert tient à remercier Synapse C pour sa collaboration à ce projet, qui nous a fourni une occasion unique de renforcer nos connaissances sur les données dans le secteur des arts et de la culture. Enfin, le Laboratoire de recherche appliquée de NordOuvert cherchera à poursuivre ce travail, alors qu'il continue à se lancer dans de nouveaux projets de recherche qui explorent la capacité et la gouvernance des données dans un large éventail d'organismes publics et privés.   
-
+NordOuvert tient à remercier Synapse C pour sa collaboration à ce projet, qui nous a fourni une occasion unique de renforcer nos connaissances sur les données dans le secteur des arts et de la culture. Enfin, le Laboratoire de recherche appliquée de NordOuvert cherchera à poursuivre ce travail, alors qu'il continue à se lancer dans de nouveaux projets de recherche qui explorent la capacité et la gouvernance des données dans un large éventail d'organismes publics et privés.
