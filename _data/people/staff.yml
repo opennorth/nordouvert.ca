@@ -28,9 +28,6 @@
   linkedin: https://www.linkedin.com/in/megan-wylie-490a6863/
   unit: ['laboratoire de recherche appliquee']
   bio: "En tant qu'analyste de recherche géographique au Laboratoire de recherche appliquée, Megan travaille avec le gouvernement pour accroître sa capacité de gouvernance ouverte et transparente, en mettant l'accent sur les données spatiales, l'accessibilité des données et la participation des citoyens. Elle possède une formation interdisciplinaire en sciences sociales et environnementales et a mené des recherches pour évaluer les applications pratiques des données ouvertes, la distribution des polluants et les changements de revenu à long terme dans les quartiers, à l'aide de données de microrecensement. Elle a obtenu un baccalauréat en études environnementales à l'Université de Waterloo et a étudié la géographie économique et la géographie de la santé tout en terminant sa maîtrise ès arts à l'Université McGill."
-- name: Christian Medina
-  role: Gestionnaire de programme
-  linkedin: https://www.linkedin.com/in/christian-medina-64266519/
 - name: Oscar Espinosa
   role: |
     <p>Gestionnaire de programme</p>
@@ -61,8 +58,6 @@
     <p>[Gouvernance]</p>
   linkedin: https://www.linkedin.com/in/johann-kwan-4b421648
   unit: ['service de consultation personnalise']
-- name: Dione Watts
-  role: Chef des opérations
 - name: Nancy Lazo
   role: Technicienne Administrative
 - name: Jaime MacLean
