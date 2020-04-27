@@ -1,4 +1,3 @@
-
 - name: Jean-Noé Landry
   role: Directeur général
   linkedin: https://www.linkedin.com/in/jeannoelandry
@@ -7,7 +6,7 @@
   role: Gestionnaire de recherche appliquée
   linkedin: https://www.linkedin.com/in/suthee/
   unit: ['laboratoire de recherche appliquee']
-- name: Suthee Sangiambut
+- name: Sarah Gagnon-Turcotte
   role: |
     <p>Directrice</p>
     <p>Laboratoire de recherche appliquée</p>
@@ -58,12 +57,6 @@
     <p>Analyste</p>
     <p>Service de consultation personnalisé</p>
   linkedin: https://www.linkedin.com/in/nsahmed/
-  unit: ['service de consultation personnalise']
-- name: Johann Kwan
-  role: |
-    <p>Conseillère, Villes intelligentes ouvertes</p>
-    <p>[Gouvernance]</p>
-  linkedin: https://www.linkedin.com/in/johann-kwan-4b421648
   unit: ['service de consultation personnalise']
 - name: Nancy Lazo
   role: Technicienne Administrative
