@@ -19,7 +19,7 @@ En collaboration avec le [Conseil canadien des normes](https://www.scc.ca/), nou
 * **Dr. Erin Strumpf**, Professeur à l'Université McGill et titulaire d'une chaire de recherche du Canada sur la prestation des services de santé et les inégalités en matière de santé
 * **M. Mark Leggott**, Directeur exécutif, Research Data Canada
 
-<p align="center">
+<p style="text-align:center; font-size: 4em;">
   <b><a href="https://scc-ccn.zoom.us/meeting/register/tJcqcuioqTwjH9cmdcarB3ZZgwoAPHfqZJQQ">Inscrivez-vous ici</a></b>
 </p>
 
