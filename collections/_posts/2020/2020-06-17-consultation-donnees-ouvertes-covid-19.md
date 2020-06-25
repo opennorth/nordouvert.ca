@@ -19,8 +19,8 @@ En collaboration avec le [Conseil canadien des normes](https://www.scc.ca/), nou
 * **Dr. Erin Strumpf**, Professeur à l'Université McGill et titulaire d'une chaire de recherche du Canada sur la prestation des services de santé et les inégalités en matière de santé
 * **M. Mark Leggott**, Directeur exécutif, Research Data Canada
 
-<p style="text-align:center; font-size: 4em;">
-  <b><a href="https://scc-ccn.zoom.us/meeting/register/tJcqcuioqTwjH9cmdcarB3ZZgwoAPHfqZJQQ">Inscrivez-vous ici</a></b>
+<p style="text-align:center; font-size: 2em;">
+  <b>Inscription terminée</b>
 </p>
 
 Après une discussion par notre panel de conférenciers, les participants seront répartis en groupes de discussion. Selon une méthodologie conçue par la Charte internationale d'ouverture des données, les participants mettront à profit leurs connaissances et leur expérience afin de répondre à des questions telles que :
