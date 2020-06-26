@@ -16,7 +16,7 @@ En collaboration avec le [Conseil canadien des normes](https://www.scc.ca/), nou
 * **M. Anil Arora**, Statisticien en chef du Canada
 * **Mme. Bonnie Healy**, Directrice de la Santé, Blackfoot Confederacy
 * **M. Éric Martel**, Chef de la direction de la performance, de l'analyse et de l'évaluation au Centre universitaire intégré de santé et de services sociaux (CIUSSS), Montréal
-* **Dr. Erin Strumpf**, Professeur à l'Université McGill et titulaire d'une chaire de recherche du Canada sur la prestation des services de santé et les inégalités en matière de santé
+* **Dr. Erin Strumpf**, Elle est une professeure associée à l'Université McGill et boursière William Dawson en économie de la santé, elle étudie la prestation des services de santé et les impacts des inégalités sur la santé
 * **M. Mark Leggott**, Directeur exécutif, Research Data Canada
 
 <p style="text-align:center; font-size: 2em;">
