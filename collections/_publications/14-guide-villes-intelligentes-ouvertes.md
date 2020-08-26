@@ -1,13 +1,13 @@
 ---
 title: Guide des villes intelligentes ouvertes
 cover_image: guide-villes-intelligentes-ouvertes.png
-link: https://docs.google.com/document/d/1rQjdip4wewzNX0eovehtP7YoqemjuasfG0LUk_K244M/
+link: https://docs.google.com/document/d/14BuvTBFylHeK9WrPsmJ5XCJrhRBKTL51mAEIrQVwnM0/
 ---
 Le Guide des villes intelligentes ouvertes est l’aboutissement du projet de recherche concerté d’un an Les villes intelligentes ouvertes au Canada, projet que nous avons dirigé. On y trouve la toute première définition d’une ville intelligente ouverte. Le guide est destiné à servir de trousse de départ pour les différents intervenants et décideurs des villes. Nous voulons qu’il devienne un document évolutif qui se nourrit des commentaires que nous allons recevoir et des connaissances que nous allons acquérir de diverses personnes, de projets, de pratiques et de ressources qui contribuent tous au projet Les villes intelligentes ouvertes.
 
 Des liens directs sont fournis ci-dessous vers les résultats du projet :
 
-* [Guide des villes intelligentes ouvertes v1.0](https://docs.google.com/document/d/1rQjdip4wewzNX0eovehtP7YoqemjuasfG0LUk_K244M/ "Guide des villes intelligentes ouvertes v1.0")
+* [Guide des villes intelligentes ouvertes v1.0](https://docs.google.com/document/d/14BuvTBFylHeK9WrPsmJ5XCJrhRBKTL51mAEIrQVwnM0/ "Guide des villes intelligentes ouvertes v1.0")
 * [Les villes intelligentes ouvertes au Canada : rapport d’évaluation (en anglais)](https://osf.io/preprints/socarxiv/qbyzj/)
 * [Les villes intelligentes ouvertes au Canada : résumé de l’analyse de l’environnement et des études de cas (en anglais)](https://osf.io/preprints/socarxiv/e4fs8/)
 * [FAQ sur les villes intelligentes ouvertes (en anglais)](https://cippic.ca/en/Open_Smart_Cities)
