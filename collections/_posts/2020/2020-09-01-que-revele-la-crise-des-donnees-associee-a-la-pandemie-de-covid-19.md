@@ -52,8 +52,8 @@ Il s'agit d'un poste commun entre Open North et Esri Canada. Voir l'article sur 
 
 ## À propos d'Esri Canada
 
-Fondée en 1984, Esri Canada fournit des solutions de systèmes d'information géographique (SIG) qui permettent aux entreprises, aux gouvernements et aux établissements d'enseignement de prendre des décisions éclairées et opportunes en tirant parti de la puissance de la cartographie et de l'analyse spatiale. Pour plus d'informations, consultez le site esri.ca.
+Fondée en 1984, Esri Canada fournit des solutions de systèmes d'information géographique (SIG) qui permettent aux entreprises, aux gouvernements et aux établissements d'enseignement de prendre des décisions éclairées et opportunes en tirant parti de la puissance de la cartographie et de l'analyse spatiale. Pour plus d'informations, consultez le site [esri.ca](https://www.esri.ca/fr-ca/home).
 
 ## À propos de Nord Ouvert
 
-Nord Ouvert est une organisation à but non lucratif basée à Montréal. En activité depuis 2011, Nord Ouvert travaille avec les gouvernements à plusieurs niveaux au Canada et à l'étranger pour faciliter l'adoption et l'utilisation de données et de pratiques gouvernementales ouvertes, ainsi que l'amélioration de l'interopérabilité des données intersectorielles. En rédigeant ce billet de collaboration, nous avons l'intention de réfléchir à l'ampleur des défis auxquels le Canada et le monde sont confrontés durant cette pandémie - nos problèmes de données exigent des solutions de collaboration à grande échelle qui améliorent les collaborations intersectorielles ; entre les experts en données géospatiales et en données ouvertes, ainsi qu'entre les gouvernements, les organismes sans but lucratif et le secteur privé.
+Nord Ouvert est un organisme à but non lucratif basé à Montréal. En activité depuis 2011, nous travaillons avec des partenaires publics, privés et de recherche ainsi qu'avec des intervenants communautaires afin de favoriser une utilisation efficace, responsable et collaborative des données et de la technologie pour résoudre des problèmes complexes.
