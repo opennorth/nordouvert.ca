@@ -46,7 +46,7 @@ Comme il s’agit d’une plateforme ouverte, les fonctionnaires peuvent partage
 
 Au Canada, [GCCollab](https://gccollab.ca/a_propos) est la plateforme du gouvernement du Canada permettant aux fonctionnaires de se connecter les uns aux autres et de partager des ressources telles que les flux de travaux d’analyse, les codes ou les documents. D’autres mécanismes pourraient être nécessaires pour faciliter le partage entre territoires. Des organisations comme [Inforoute Santé du Canada](https://www.infoway-inforoute.ca/fr/) ont été créées et financées par le gouvernement du Canada pour promouvoir des solutions d’interopérabilité dans le secteur de la santé.
 
-Toutefois, il faut en faire plus. Un organisme central de normalisation fort, une collaboration et une coordination étroites, ainsi que des mandats institutionnels plus solides peuvent contribuer à remédier à la fragmentation actuelle de nos données de santé dans les provinces, la nation et le monde. 
+Toutefois, il faut en faire plus. Un organisme central de normalisation fort, une collaboration et une coordination étroites, ainsi que des mandats institutionnels plus solides peuvent contribuer à remédier à la fragmentation actuelle de nos données de santé dans les provinces, la nation et le monde.
 
 Il s'agit d'un poste commun entre Open North et Esri Canada. Voir l'article sur le site web d'[Esri Canada](https://ressources.esri.ca/nouvelles-et-mises-a-jour/que-revele-la-crise-des-donnees-associee-a-la-pandemie-de-covid-19).
 
