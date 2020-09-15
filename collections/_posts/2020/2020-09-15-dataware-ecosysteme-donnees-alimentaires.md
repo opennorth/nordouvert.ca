@@ -61,15 +61,15 @@ Lors de cet atelier tenu au mois de mars 2020, nous avons exploré avec les étu
 
 La principale réalisation de l’atelier constitue d’une augmentation des connaissances et compétences des étudiants en littératie des données, mise en évidence par les témoignages récoltés des participants (ci-dessous).
 
-> « La formation me rappelle à quel point les données ne sont pas objectives, il ne faut pas aveuglément se fier à l’information qu’on te donne… elle peut teinter le jugement de ceux qui les produisent. On a besoin d’être critique »
+> La formation me rappelle à quel point les données ne sont pas objectives, il ne faut pas aveuglément se fier à l’information qu’on te donne… elle peut teinter le jugement de ceux qui les produisent. On a besoin d’être critique
 
-> « Je n’avais pas conscience de l’accessibilité des données sur Internet, il me manquait des infos pour les chercher et les trouver, et je n’étais pas conscient de jusqu'où on peut aller »
+> Je n’avais pas conscience de l’accessibilité des données sur Internet, il me manquait des infos pour les chercher et les trouver, et je n’étais pas conscient de jusqu'où on peut aller
 
-> « Il y a vraiment beaucoup de données. Il faut par contre savoir comment les filtrer!  »
+> Il y a vraiment beaucoup de données. Il faut par contre savoir comment les filtrer!
 
-> « Vraiment intéressant les conclusions que l’on peut tirer des données, mais il faut faire vraiment attention de ne pas y insérer nos biais et renforcer certains préjugés  »
+> Vraiment intéressant les conclusions que l’on peut tirer des données, mais il faut faire vraiment attention de ne pas y insérer nos biais et renforcer certains préjugés
 
-> « Intéressant de voir à quel point tout ce que l’on fait devient sujet à être une « donnée »; la donnée est partout. Omniprésente! »
+> Intéressant de voir à quel point tout ce que l’on fait devient sujet à être une « donnée »; la donnée est partout. Omniprésente!
 
 ## Découvrir le curriculum Dataware
 
