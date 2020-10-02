@@ -1,7 +1,7 @@
 ---
 title: "Le modèle intégré: le potentiel de la contribution philanthropique pour la prestation de services intégrés (en anglais)"
 cover_image: hub-model-potential-philanthropic-intervention.png
-link: https://docs.google.com/document/d/1_srSDV8PetMWdYsK7yOJbpClggBn-n0MjkqkgSGKYD4/edit?usp=sharing
+link: https://drive.google.com/file/d/1xC3hkx-xnPyj34pHP40dW_bCq--hszS9/
 ---
 Le modèle intégré (« hub ») de la province de la Saskatchewan est un parfait exemple de prestation de services intégrés, intergouvernementaux et intersectoriels, qui change la manière dont les services sociaux sont fournis au public. Avec une structure qui est extrêmement souple, mais respecte la vie privée, les « Hubs » de la Saskatchewan rassemblent les fournisseurs de service dans un cadre collaboratif et bâtissent les relations. Suivant ce modèle, les fournisseurs de services collaborent, partagent des données et résolvent les problèmes communs ensemble. Notre étude du modèle intégré vise à documenter son fonctionnement, à examiner la manière dont il est perçu et à évaluer le rôle potentiel de la philanthropie.
 
